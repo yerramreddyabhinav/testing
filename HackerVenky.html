@@ -42,14 +42,15 @@ document.addEventListener("DOMContentLoaded", function() {
         .then(response => response.json())
         .then(data => {
             const questionsContainer = document.getElementById('questions');
-
+			let qno=1;
             data.forEach(question => {
                 let questionDiv = document.createElement('div');
                 questionDiv.className = 'question';
                 
                 let title = document.createElement('div');
                 title.className = 'title';
-                title.textContent = question.nameText;
+                title.textContent = 'Question'+ qno +': '+ question.nameText;
+                qno++;
                 questionDiv.appendChild(title);
                 
                 let optionsList = document.createElement('div');
@@ -64,6 +65,14 @@ document.addEventListener("DOMContentLoaded", function() {
                 });
 
                 questionDiv.appendChild(optionsList);
+
+                if (question.solution && question.solution.trim() !== "") {
+                    let solutionDiv = document.createElement('div');
+                    solutionDiv.className = 'solution';
+                    solutionDiv.textContent = "Solution: " + question.solution;
+                    questionDiv.appendChild(solutionDiv);
+                }
+
                 questionsContainer.appendChild(questionDiv);
             });
         })
