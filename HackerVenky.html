@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Question Analysis</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.question {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 5px solid #333;
+}
+
+.correct {
+    color: green;
+    font-weight: bold;
+}
+
+.incorrect {
+    color: red;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.options {
+    margin-top: 5px;
+}
+
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    fetch('data.json')
+        .then(response => response.json())
+        .then(data => {
+            const questionsContainer = document.getElementById('questions');
+
+            data.forEach(question => {
+                let questionDiv = document.createElement('div');
+                questionDiv.className = 'question';
+                
+                let title = document.createElement('div');
+                title.className = 'title';
+                title.textContent = question.nameText;
+                questionDiv.appendChild(title);
+                
+                let optionsList = document.createElement('div');
+                optionsList.className = 'options';
+                
+                question.options.forEach(option => {
+                    let optionSpan = document.createElement('span');
+                    optionSpan.textContent = option.nameText;
+                    optionSpan.className = option.isCorrect ? 'correct' : 'incorrect';
+                    optionsList.appendChild(optionSpan);
+                    optionsList.appendChild(document.createElement('br'));
+                });
+
+                questionDiv.appendChild(optionsList);
+                questionsContainer.appendChild(questionDiv);
+            });
+        })
+        .catch(error => console.error('Error loading the questions:', error));
+});
+
+
+</script>
+</head>
+<body>
+<div id="questions"></div>
+
+</body>
+</html>
