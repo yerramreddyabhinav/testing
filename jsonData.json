@@ -1,46 +1,46 @@
 [
     {
-        "_id": "64aeb7feb2915c4146f08d61",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Under the Indian Penal Code, words which refer to acts done, extend also to&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9f53dd6bb03f",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">When, at the desire of the promisor, the promisee or any other person has done or abstained from doing or, does or abstains from doing or promises to do or to abstain from doing something, such act or abstinence or promise under section 2(d) is called</span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Under the Indian Penal Code, words which refer to acts done, extend also to ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "When, at the desire of the promisor, the promisee or any other person has done or abstained from doing or, does or abstains from doing or promises to do or to abstain from doing something, such act or abstinence or promise under section 2(d) is called",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 1,
         "questionSubmitOrder": 1,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Omissions<o:p></o:p></span></p>",
-                "nameText": "Omissions",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">reciprocal promise&nbsp;</span></p>",
+                "nameText": "reciprocal promise ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e25bf5c33a23",
+                "_id": "61d59351cf4d9fafd86bb03b",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Illegal Omissions<o:p></o:p></span></p>",
-                "nameText": "Illegal Omissions",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">consideration for the promise&nbsp;</span></p>",
+                "nameText": "consideration for the promise ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2697bc33a24",
+                "_id": "61d59351cf4d9f61da6bb03c",
                 "isMarked": true
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Commissions&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Commissions ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">counter offer&nbsp;</span></p>",
+                "nameText": "counter offer ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e23905c33a25",
+                "_id": "61d59351cf4d9fa5ec6bb03d",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Illegal Commissions <o:p></o:p></span></p>",
-                "nameText": "Illegal Commissions ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">acceptance.&nbsp;&nbsp;</span></p>",
+                "nameText": "acceptance.  ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e289f3c33a26",
+                "_id": "61d59351cf4d9f65b36bb03e",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 32. WORDS REFFERING TO ACTS INCLUDE ILLEGAL OMISSIONS</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": true,
@@ -52,54 +52,54 @@
             "positive": 1,
             "negative": 0
         },
-        "timeTaken": 69000,
+        "timeTaken": 24000,
         "markForReview": false,
         "isGpscType": false,
         "isSurrendered": false,
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c62d9f08d7f",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">The difference between section 34 and section 149 of Indian Penal Code is:&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9f1b686bb053",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Which is correct</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "The difference between section 34 and section 149 of Indian Penal Code is: ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Which is correct  ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 2,
         "questionSubmitOrder": 2,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">that whereas in section 34 there must at atleast be five persons, section 149 requires only two persons<o:p></o:p></span></p>",
-                "nameText": "that whereas in section 34 there must at atleast be five persons, section 149 requires only two persons",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">proposal + acceptance = promise&nbsp;</span></p>",
+                "nameText": "proposal + acceptance = promise ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e2b0bdc33a45",
+                "_id": "61d59351cf4d9f39506bb04f",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">that section 149 is only a rule of evidence whereas section 34 creates a specific offence and provides for its punishment<o:p></o:p></span></p>",
-                "nameText": "that section 149 is only a rule of evidence whereas section 34 creates a specific offence and provides for its punishment",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">promise + consideration = agreement&nbsp;</span></p>",
+                "nameText": "promise + consideration = agreement ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e21fa2c33a46",
+                "_id": "61d59351cf4d9f35d26bb050",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">that section 34 requires active participation in action whereas section 149 requires mere passive membership of the unlawful assembly&nbsp;<o:p></o:p></span></p>",
-                "nameText": "that section 34 requires active participation in action whereas section 149 requires mere passive membership of the unlawful assembly ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement + enforceability = contract&nbsp;</span></p>",
+                "nameText": "agreement + enforceability = contract ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f2b4d6bb051",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">all the above.&nbsp;&nbsp;</span></p>",
+                "nameText": "all the above.  ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2348cc33a47",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">that section 34 need not be joined with the principal of offence, whereas section 149 must be combined with the principal offence<o:p></o:p></span></p>",
-                "nameText": "that section 34 need not be joined with the principal of offence, whereas section 149 must be combined with the principal offence",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e27aeac33a48",
+                "_id": "61d59351cf4d9f0e4d6bb052",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 34. ACTS DONE BY SEVERAL PERSONS IN FURTHERANCE OF COMMON INTENTION</p>\n<p>SECTION 149. EVERY MEMBER OF UNLAWFUL ASSEMBLY GUILTY OF OFFENCE COMMITTED IN PROSECUTION OF THE COMMON OBJECT</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -111,54 +111,54 @@
             "positive": 0,
             "negative": 0
         },
-        "timeTaken": 6000,
+        "timeTaken": 0,
         "markForReview": false,
         "isGpscType": false,
         "isSurrendered": false,
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c23daf08d89",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">The word &ldquo;injury&rdquo; in the Indian Penal Code means:&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9f51126bb067",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Goods displayed in a shop with a price tag is an</span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "The word “injury” in the Indian Penal Code means: ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Goods displayed in a shop with a price tag is an",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 3,
         "questionSubmitOrder": 3,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Injury to the body of a person&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Injury to the body of a person ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">offer&nbsp;&nbsp;</span></p>",
+                "nameText": "offer  ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e24a5ac33a17",
+                "_id": "61d59351cf4d9f75346bb063",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Injury to the property&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Injury to the property ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e22b76c33a18",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Injury to the mind&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Injury to the mind ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e26a27c33a19",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Injury to the body, mind, reputation or property&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Injury to the body, mind, reputation or property ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">invitation to offer&nbsp;</span></p>",
+                "nameText": "invitation to offer ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2bf02c33a1a",
+                "_id": "61d59351cf4d9f26456bb064",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">counter offer&nbsp;&nbsp;</span></p>",
+                "nameText": "counter offer  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f4bec6bb065",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">none of the above.&nbsp;</span></p>",
+                "nameText": "none of the above. ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f129b6bb066",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 44.&nbsp; INJURY</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -177,47 +177,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c5e24f08d57",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">As per IPC a document &lsquo;hereby any legal right is created, extended, restricted or released is&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9f05156bb04e",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">An agreement enforceable by law at the instance of one party &amp; not of other party under section 2(i) is called</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "As per IPC a document ‘hereby any legal right is created, extended, restricted or released is ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "An agreement enforceable by law at the instance of one party & not of other party under section 2(i) is called  ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 4,
         "questionSubmitOrder": 4,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Conveyance deed<o:p></o:p></span></p>",
-                "nameText": "Conveyance deed",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">a valid contract&nbsp;</span></p>",
+                "nameText": "a valid contract ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e26b29c33a0f",
+                "_id": "61d59351cf4d9fc38d6bb04a",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Gift deed<o:p></o:p></span></p>",
-                "nameText": "Gift deed",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">an illegal contract&nbsp;</span></p>",
+                "nameText": "an illegal contract ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e2620cc33a10",
+                "_id": "61d59351cf4d9f9c626bb04b",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Will<o:p></o:p></span></p>",
-                "nameText": "Will",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">a void contract&nbsp;&nbsp;</span></p>",
+                "nameText": "a void contract  ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e262fac33a11",
+                "_id": "61d59351cf4d9f1b6b6bb04c",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Valuable security&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Valuable security ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">a voidable contract.&nbsp;</span></p>",
+                "nameText": "a voidable contract. ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e27f8ac33a12",
+                "_id": "61d59351cf4d9fcb0f6bb04d",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 30. VALUABLE SECURITY&nbsp;</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -236,47 +236,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c487df08d34",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">The exhaustive meaning of public servant has been given in which section of the Indian Penal Code, 1860.</span></strong><o:p></o:p></p>",
+        "_id": "61d59351cf4d9f7adf6bb06c",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Tender is</span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "The exhaustive meaning of public servant has been given in which section of the Indian Penal Code, 1860.",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Tender is",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 5,
         "questionSubmitOrder": 5,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 16&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 16 ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">an offer&nbsp;&nbsp;</span></p>",
+                "nameText": "an offer  ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e230cbc33a39",
+                "_id": "61d59351cf4d9f46ee6bb068",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 19&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 19 ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2ca02c33a3a",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 21&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 21 ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">an invitation to offer&nbsp;</span></p>",
+                "nameText": "an invitation to offer ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2bfd1c33a3b",
+                "_id": "61d59351cf4d9f1e0a6bb069",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 14&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 14 ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">a counter offer&nbsp;&nbsp;</span></p>",
+                "nameText": "a counter offer  ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e2b11ec33a3c",
+                "_id": "61d59351cf4d9f686f6bb06a",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">a promise&nbsp;</span></p>",
+                "nameText": "a promise ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f7c006bb06b",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 21. PUBLIC SERVANT</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -295,47 +295,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c239df08d2a",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">&lsquo;India&rsquo; has been defined in&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9fd92a6bb035",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Under section 2(b) if the person to whom the proposal is made signifies his assent the proposal is said to have been</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "‘India’ has been defined in ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Under section 2(b) if the person to whom the proposal is made signifies his assent the proposal is said to have been  ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 6,
         "questionSubmitOrder": 6,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Section 1 of IPC<o:p></o:p></span></p>",
-                "nameText": "Section 1 of IPC",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2dd05c33a2b",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Section 2 of IPC<o:p></o:p></span></p>",
-                "nameText": "Section 2 of IPC",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2636bc33a2c",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 18 of IPC<o:p></o:p></span></p>",
-                "nameText": "Section 18 of IPC",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">&nbsp;accepted&nbsp;</span></p>",
+                "nameText": " accepted ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e28351c33a2d",
+                "_id": "61d59351cf4d9f8d476bb031",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Section 16 of IPC&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 16 of IPC ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreed&nbsp;</span></p>",
+                "nameText": "agreed ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e2be5cc33a2e",
+                "_id": "61d59351cf4d9fd7e36bb032",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">provisionally agreed&nbsp;</span></p>",
+                "nameText": "provisionally agreed ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f26a76bb033",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">tentatively accepted.&nbsp;&nbsp;</span></p>",
+                "nameText": "tentatively accepted.  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f63106bb034",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 18. INDIA</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -354,47 +354,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915cd9a5f08d39",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Definition of &lsquo;wrongful gain&rsquo; is as follows:&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9fd9196bb03a",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">A proposal when accepted becomes</span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Definition of ‘wrongful gain’ is as follows: ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "A proposal when accepted becomes",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 7,
         "questionSubmitOrder": 7,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Gain by unlawful means of property to which person is not legally entitled<o:p></o:p></span></p>",
-                "nameText": "Gain by unlawful means of property to which person is not legally entitled",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">promise under section 2(b)&nbsp;</span></p>",
+                "nameText": "promise under section 2(b) ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2ac2ec33a49",
+                "_id": "61d59351cf4d9f35af6bb036",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Gaining wrongfully and losing wrongfully<o:p></o:p></span></p>",
-                "nameText": "Gaining wrongfully and losing wrongfully",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement under section 2(e)&nbsp;</span></p>",
+                "nameText": "agreement under section 2(e) ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e295d5c33a4a",
+                "_id": "61d59351cf4d9f1f2b6bb037",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Gaining dishonestly<o:p></o:p></span></p>",
-                "nameText": "Gaining dishonestly",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">contract under section 2(h)&nbsp;</span></p>",
+                "nameText": "contract under section 2(h) ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e23487c33a4b",
+                "_id": "61d59351cf4d9f3aff6bb038",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Loss by unlawful means of property to which person is entitled<o:p></o:p></span></p>",
-                "nameText": "Loss by unlawful means of property to which person is entitled",
+                "name": "<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1;\">none of the above.&nbsp;&nbsp;</span></p>",
+                "nameText": "none of the above.  ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e213d0c33a4c",
+                "_id": "61d59351cf4d9f2b9e6bb039",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 23. WRONGFUL GAIN. WRONGFUL LOSS</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -413,106 +413,106 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c70c8f08d2f",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\"><span style=\"font-family: 'times new roman', times;\">The Word &ldquo;Judge&rdquo; is defined in</span><o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9f7cbb6bb02b",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Void agreement signifies</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "The Word “Judge” is defined in",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Void agreement signifies  ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 8,
         "questionSubmitOrder": 8,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\"><span style=\"font-family: 'times new roman', times;\">The Indian Penal Code</span><o:p></o:p></span></p>",
-                "nameText": "The Indian Penal Code",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement illegal in nature&nbsp;</span></p>",
+                "nameText": "agreement illegal in nature ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e26f7ec33a1b",
+                "_id": "61d59351cf4d9f3f5e6bb027",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\"><span style=\"font-family: 'times new roman', times;\">The Civil Procedure Code</span><o:p></o:p></span></p>",
-                "nameText": "The Civil Procedure Code",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e252d3c33a1c",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\"><span style=\"font-family: 'times new roman', times;\">The Criminal Procedure Code</span><o:p></o:p></span></p>",
-                "nameText": "The Criminal Procedure Code",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2fdadc33a1d",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\"><span style=\"font-family: 'times new roman', times;\">1 and 2 alone&nbsp;</span><o:p></o:p></span></p>",
-                "nameText": "1 and 2 alone ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement not enforceable by law&nbsp;</span></p>",
+                "nameText": "agreement not enforceable by law ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2ebdac33a1e",
+                "_id": "61d59351cf4d9fb04e6bb028",
+                "isMarked": true
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement violating legal procedure&nbsp;</span></p>",
+                "nameText": "agreement violating legal procedure ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9fc9c66bb029",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement against public policy.&nbsp;&nbsp;</span></p>",
+                "nameText": "agreement against public policy.  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f00f36bb02a",
                 "isMarked": false
             }
         ],
-        "solution": "<p><span style=\"font-family: 'Times New Roman';\">SECTION 19. JUDGE</span></p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
-        "isAttempted": false,
+        "isAttempted": true,
         "isPartiallyCorrect": false,
-        "isCorrect": false,
+        "isCorrect": true,
         "isGraceMarked": false,
         "isReevaluated": false,
         "marks": {
-            "positive": 0,
+            "positive": 1,
             "negative": 0
         },
-        "timeTaken": 0,
+        "timeTaken": 14000,
         "markForReview": false,
         "isGpscType": false,
         "isSurrendered": false,
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c0cb7f08d48",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">For the purpose of IPC, the possession of ____ is the possession of the person</span></strong><o:p></o:p></p>",
+        "_id": "624abdee0bc69a451ca6fae3",
+        "name": "<p><span style=\"font-size: 14pt;\"><strong>A contracts to pay B 10,000/- if B's house is burnt. This is ____ </strong> </span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "For the purpose of IPC, the possession of ____ is the possession of the person",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "A contracts to pay B 10,000/- if B's house is burnt. This is ____  ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 9,
         "questionSubmitOrder": 9,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Wife<o:p></o:p></span></p>",
-                "nameText": "Wife",
+                "name": "<p><strong>Void Contract</strong></p>",
+                "nameText": "Void Contract",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e292f8c33a1f",
+                "_id": "62498fcfc61a1159afd006ef",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Clerk&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Clerk ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e27a47c33a20",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Servant&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Servant ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2a03dc33a21",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">All the above<o:p></o:p></span></p>",
-                "nameText": "All the above",
+                "name": "<p><strong>Contingent contract</strong></p>",
+                "nameText": "Contingent contract",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e23576c33a22",
+                "_id": "62498fcfc61a11863ad006f0",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong>Wager</strong></p>",
+                "nameText": "Wager",
+                "isCorrect": false,
+                "_id": "62498fcfc61a110531d006f1",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong>None of the above</strong></p>",
+                "nameText": "None of the above",
+                "isCorrect": false,
+                "_id": "62498fcfc61a11e94cd006f2",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 27. PROPERTY IN POSSESSION OF WIFE, CLERK OR SERVANT</p>",
+        "solution": " ",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -531,47 +531,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c16c4f08d52",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">Section 29A of the Indian Penal Code, 1860</span></strong><o:p></o:p></p>",
+        "_id": "624abdee0bc69ad896a6faf3",
+        "name": "<p><span style=\"font-size: 14pt;\"><strong><span style=\"line-height: 107%; font-family: Calibri, sans-serif;\">According to Section 2(j) of the Indian contract Act, 1872, an agreement </span></strong></span><strong style=\"font-size: 18.6667px;\"><span style=\"line-height: 107%; font-family: Calibri, sans-serif;\">which is </span></strong><strong style=\"font-size: 14pt;\"><span style=\"line-height: 107%; font-family: Calibri, sans-serif;\">enforceable by law at the option of one or more of the parties thereto, but NOT at the option of the other or other is:</span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Section 29A of the Indian Penal Code, 1860",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "According to Section 2(j) of the Indian contract Act, 1872, an agreement which is enforceable by law at the option of one or more of the parties thereto, but NOT at the option of the other or other is:",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 10,
         "questionSubmitOrder": 10,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Will<o:p></o:p></span></p>",
-                "nameText": "Will",
+                "name": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><strong><span style=\"font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">a)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">Invalid&nbsp;</span></strong></p>",
+                "nameText": "a)     Invalid ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e23db0c33a2f",
+                "_id": "62498fcfc61a11fd58d0070d",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Valuable Security<o:p></o:p></span></p>",
-                "nameText": "Valuable Security",
+                "name": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><strong><span style=\"font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">a)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">A contingent contract</span></strong></p>",
+                "nameText": "a)     A contingent contract",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e23386c33a30",
+                "_id": "62498fcfc61a111c83d0070e",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Electronic Record<o:p></o:p></span></p>",
-                "nameText": "Electronic Record",
+                "name": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><strong><span style=\"font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">a)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">Void</span></strong></p>",
+                "nameText": "a)     Void",
+                "isCorrect": false,
+                "_id": "62498fcfc61a1112f3d0070f",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><strong><span style=\"font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">a)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">A voidable contract.</span></strong></p>",
+                "nameText": "a)     A voidable contract.",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2dfa6c33a31",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Documents<o:p></o:p></span></p>",
-                "nameText": "Documents",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e277b3c33a32",
+                "_id": "62498fcfc61a11cc90d00710",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 29A. ELECTRONIC RECORD</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -590,47 +590,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c55c3f08d7a",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">Y, a small boy was guarding the field. Z and M outsiders trespassed and stared harvesting, on protest by Y they beat him up and hearing his cries, X and P, uncles of Y who were working in different directions, rushed in, one of them X, fired at the trespassers killing one of them and ran away. P was arrested and charged under section 302 of IPC for murder read with section 34. Which of the following statements is correct?&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9f84b46bb049",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Every promise or set of promises forming the consideration for each other under section 2(e) is called</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Y, a small boy was guarding the field. Z and M outsiders trespassed and stared harvesting, on protest by Y they beat him up and hearing his cries, X and P, uncles of Y who were working in different directions, rushed in, one of them X, fired at the trespassers killing one of them and ran away. P was arrested and charged under section 302 of IPC for murder read with section 34. Which of the following statements is correct? ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Every promise or set of promises forming the consideration for each other under section 2(e) is called  ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 11,
         "questionSubmitOrder": 11,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is liable for murder because of the similar intention of both the brothers&nbsp;<o:p></o:p></span></p>",
-                "nameText": "he is liable for murder because of the similar intention of both the brothers ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">reciprocal promise&nbsp;</span></p>",
+                "nameText": "reciprocal promise ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e2788dc33a27",
+                "_id": "61d59351cf4d9f0e3d6bb045",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is liable for murder because of the same intention of both the brothers&nbsp;<o:p></o:p></span></p>",
-                "nameText": "he is liable for murder because of the same intention of both the brothers ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">contract&nbsp;</span></p>",
+                "nameText": "contract ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e225f9c33a28",
+                "_id": "61d59351cf4d9f12aa6bb046",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is liable for murder because he was present when his brother forced at the trespassers&nbsp;<o:p></o:p></span></p>",
-                "nameText": "he is liable for murder because he was present when his brother forced at the trespassers ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2355bc33a29",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is not liable because there was no common intention to kill&nbsp;<o:p></o:p></span></p>",
-                "nameText": "he is not liable because there was no common intention to kill ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement&nbsp;</span></p>",
+                "nameText": "agreement ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2de37c33a2a",
+                "_id": "61d59351cf4d9fa2ca6bb047",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">none of the above.&nbsp;&nbsp;</span></p>",
+                "nameText": "none of the above.  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f5b006bb048",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 34. ACTS DONE BY SEVERAL PERSONS IN FURTHERANCE OF COMMON INTENTION&nbsp;</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -649,47 +649,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c508af08d75",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Section 34 of the IPC&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9f568e6bb017",
+        "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1;\">An agreement enforceable at law is a&nbsp;&nbsp;</span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Section 34 of the IPC ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "An agreement enforceable at law is a  ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 12,
         "questionSubmitOrder": 12,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Creates a substantive offence&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Creates a substantive offence ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">enforceable acceptance&nbsp;</span></p>",
+                "nameText": "enforceable acceptance ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e21b1cc33a55",
+                "_id": "61d59351cf4d9f34566bb013",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Introduces the principle of vicarious liability for an offence committed by the co-accused&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Introduces the principle of vicarious liability for an offence committed by the co-accused ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">accepted offer&nbsp;</span></p>",
+                "nameText": "accepted offer ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e2098ac33a56",
+                "_id": "61d59351cf4d9f45de6bb014",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Recognizes that the co-participant in a crime must be made liable for his act in the commission of the crime by the co-accused<o:p></o:p></span></p>",
-                "nameText": "Recognizes that the co-participant in a crime must be made liable for his act in the commission of the crime by the co-accused",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">approved promise&nbsp;&nbsp;</span></p>",
+                "nameText": "approved promise  ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e21a7ec33a57",
+                "_id": "61d59351cf4d9f83f46bb015",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Both b and c&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Both b and c ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">contract.&nbsp;</span></p>",
+                "nameText": "contract. ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e25f42c33a58",
+                "_id": "61d59351cf4d9f8f286bb016",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 34. ACTS DONE BY SEVERAL PERSONS IN FURTHERANCE OF COMMON INTENTION</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -708,47 +708,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c7420f08d25",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Under the Indian Penal Code, a person is defined as-&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "624abdee0bc69a61d9a6fad0",
+        "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\"><span style=\"font-size: 14pt;\">Z saves the property of Y from fire. The circumstances indicate that Z intended to do so gratuitously. Under Section 70 of the Indian contract Act, 1872:&nbsp;</span></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Under the Indian Penal Code, a person is defined as- ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Z saves the property of Y from fire. The circumstances indicate that Z intended to do so gratuitously. Under Section 70 of the Indian contract Act, 1872: ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 13,
         "questionSubmitOrder": 13,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Including any company or body of persons whether incorporated or not&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Including any company or body of persons whether incorporated or not ",
+                "name": "<p><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Z is entitled to compensation from legal representative of Y&nbsp;</span></strong></p>",
+                "nameText": "Z is entitled to compensation from legal representative of Y ",
+                "isCorrect": false,
+                "_id": "62498fcfc61a116931d00708",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Y is bound to give compensation to Z&nbsp;</span></strong></p>",
+                "nameText": "Y is bound to give compensation to Z ",
+                "isCorrect": false,
+                "_id": "62498fcfc61a111366d00709",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Z is entitled to compensation from the local administration</span></strong></p>",
+                "nameText": "Z is entitled to compensation from the local administration",
+                "isCorrect": false,
+                "_id": "62498fcfc61a115595d0070a",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">Z is not entitled to compensation from Y.</span></strong></p>",
+                "nameText": "Z is not entitled to compensation from Y.",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e23e3bc33a07",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Meaning only individual human beings<o:p></o:p></span></p>",
-                "nameText": "Meaning only individual human beings",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e26755c33a08",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Meaning only as men<o:p></o:p></span></p>",
-                "nameText": "Meaning only as men",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2f1b2c33a09",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">None of the above<o:p></o:p></span></p>",
-                "nameText": "None of the above",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2fa71c33a0a",
+                "_id": "62498fcfc61a11598dd0070b",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 11. PERSON</p>",
+        "solution": " ",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -767,47 +767,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c2b28f08d4d",
-        "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">&lsquo;Electronic record&rsquo; under Section 29A of the Indian Penal Code shall have the meaning assigned to it as in of Information Technology Act, 2000.&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9f71a76bb026",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">An agreement not enforceable by law is stated to be void under</span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "‘Electronic record’ under Section 29A of the Indian Penal Code shall have the meaning assigned to it as in of Information Technology Act, 2000. ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "An agreement not enforceable by law is stated to be void under",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 14,
         "questionSubmitOrder": 14,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 2(1)(t)&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 2(1)(t) ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">section 2(d)&nbsp;</span></p>",
+                "nameText": "section 2(d) ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f00a86bb022",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">section 2(e)&nbsp;</span></p>",
+                "nameText": "section 2(e) ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f260b6bb023",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">section 2(f)&nbsp;&nbsp;</span></p>",
+                "nameText": "section 2(f)  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f95d06bb024",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">section 2(g).&nbsp;&nbsp;</span></p>",
+                "nameText": "section 2(g).  ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2c8c0c33a3d",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 2(1)(s)&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 2(1)(s) ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2329ec33a3e",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 2(1)(e)<o:p></o:p></span></p>",
-                "nameText": "Section 2(1)(e)",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2134dc33a3f",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Section 2(1)(d)<o:p></o:p></span></p>",
-                "nameText": "Section 2(1)(d)",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2211dc33a40",
+                "_id": "61d59351cf4d9f82996bb025",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 29A. ELECTRONIC RECORD</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -826,47 +826,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915cd96bf08d8e",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">The Words &ldquo;year&rdquo; and &ldquo;Month&rdquo; are defined in IPC to mean the year of month according to&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "624abdee0bc69a6c74a6fada",
+        "name": "<p><span style=\"font-size: 14pt;\"><strong>For his commission or remuneration, an agent has a</strong> </span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "The Words “year” and “Month” are defined in IPC to mean the year of month according to ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "For his commission or remuneration, an agent has a ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 15,
         "questionSubmitOrder": 15,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">English calendar&nbsp;<o:p></o:p></span></p>",
-                "nameText": "English calendar ",
+                "name": "<p><strong>General lien</strong></p>",
+                "nameText": "General lien",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e22ec7c33a59",
+                "_id": "62498fcfc61a11d2b9d006fe",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">British Calendar&nbsp;&nbsp;<o:p></o:p></span></p>",
-                "nameText": "British Calendar  ",
+                "name": "<p><strong>Particular lien</strong></p>",
+                "nameText": "Particular lien",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e20a05c33a5a",
+                "_id": "62498fcfc61a117b19d006ff",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Gregorian Calendar<o:p></o:p></span></p>",
-                "nameText": "Gregorian Calendar",
+                "name": "<p><strong>No lien at all</strong></p>",
+                "nameText": "No lien at all",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e23db5c33a5b",
+                "_id": "62498fcfc61a115ee1d00700",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">None of the above<o:p></o:p></span></p>",
+                "name": "<p><strong>None of the above</strong></p>",
                 "nameText": "None of the above",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e2bcc9c33a5c",
+                "_id": "62498fcfc61a11edc3d00701",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 49. \"YEAR\", \"MONTH\"</p>",
+        "solution": " ",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -885,47 +885,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c151bf08d84",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%;\"><span style=\"font-family: 'times new roman', times;\">Ten persons were charged for offence under section 302/149 IPC, out of which six persons were acquitted, the remaining four.</span><o:p></o:p></span></strong></p>",
+        "_id": "624abdee0bc69a6e38a6fb11",
+        "name": "<p><span style=\"font-size: 14pt;\"><strong>Under the Contract Act, the original contract need not be performed if the parties agree </strong></span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Ten persons were charged for offence under section 302/149 IPC, out of which six persons were acquitted, the remaining four.",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Under the Contract Act, the original contract need not be performed if the parties agree ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 16,
         "questionSubmitOrder": 16,
         "options": [
             {
-                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">cannot be convicted for offence under section 302/149 of IPC</span><o:p></o:p></span></p>",
-                "nameText": "cannot be convicted for offence under section 302/149 of IPC",
+                "name": "<p><strong>to substitute a new contract</strong></p>",
+                "nameText": "to substitute a new contract",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e21554c33a35",
+                "_id": "62498fcfc61a117ee0d006e0",
                 "isMarked": false
             },
             {
-                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">cannot be convicted for offence under section 302 of IPC</span><o:p></o:p></span></p>",
-                "nameText": "cannot be convicted for offence under section 302 of IPC",
+                "name": "<p><strong>to rescind the contract. </strong></p>",
+                "nameText": "to rescind the contract. ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e29e05c33a36",
+                "_id": "62498fcfc61a117cc4d006e1",
                 "isMarked": false
             },
             {
-                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">cannot be convicted for offence under section 149 of IPC&nbsp;</span><o:p></o:p></span></p>",
-                "nameText": "cannot be convicted for offence under section 149 of IPC ",
+                "name": "<p><strong>to alter the contract.</strong></p>",
+                "nameText": "to alter the contract.",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e26228c33a37",
+                "_id": "62498fcfc61a113546d006e2",
                 "isMarked": false
             },
             {
-                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">all the above</span><o:p></o:p></span></p>",
-                "nameText": "all the above",
+                "name": "<p><strong>All the above</strong></p>",
+                "nameText": "All the above",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e223f2c33a38",
+                "_id": "62498fcfc61a110bddd006e3",
                 "isMarked": false
             }
         ],
-        "solution": "<p><span style=\"font-family: 'Times New Roman';\">SECTION 149. EVERY MEMBER OF UNLAWFUL ASSEMBLY GUILTY OF OFFENCE COMMITTED IN PROSECUTION OF THE COMMON OBJECT</span></p>",
+        "solution": " ",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -944,47 +944,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c1f34f08d70",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Five persons went to A&rsquo;s house armed with bats to beat A. One (X) amongst the five persons was carrying a pistol concealed underneath his shirt.&nbsp; During the incident of beating, X fired a shot resulting in A&rsquo;s death:<o:p></o:p></span></strong></p>",
+        "_id": "624abdee0bc69aec5ea6faca",
+        "name": "<p><span style=\"font-size: 14pt;\"><strong>Where consent to an agreement is caused by coercion, fraud or misrepresentation, the contract is ________</strong></span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Five persons went to A’s house armed with bats to beat A. One (X) amongst the five persons was carrying a pistol concealed underneath his shirt.  During the incident of beating, X fired a shot resulting in A’s death:",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Where consent to an agreement is caused by coercion, fraud or misrepresentation, the contract is ________",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 17,
         "questionSubmitOrder": 17,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">All being members of unlawful assembly are liable for causing death<o:p></o:p></span></p>",
-                "nameText": "All being members of unlawful assembly are liable for causing death",
+                "name": "<p><strong>Valid</strong></p>",
+                "nameText": "Valid",
+                "isCorrect": false,
+                "_id": "62498fcfc61a118018d00703",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong>Voidable at the option of the party, whose consent was so caused</strong></p>",
+                "nameText": "Voidable at the option of the party, whose consent was so caused",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2f104c33a13",
+                "_id": "62498fcfc61a11ea1dd00704",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">All will be liable only for beating A&nbsp;<o:p></o:p></span></p>",
-                "nameText": "All will be liable only for beating A ",
+                "name": "<p><strong>Void ab initio</strong></p>",
+                "nameText": "Void ab initio",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e24d3cc33a14",
+                "_id": "62498fcfc61a11adc0d00705",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Only X will be liable for causing death&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Only X will be liable for causing death ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2589ec33a15",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">None of the above<o:p></o:p></span></p>",
+                "name": "<p><strong>None of the above</strong></p>",
                 "nameText": "None of the above",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e21d73c33a16",
+                "_id": "62498fcfc61a11a502d00706",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 149. EVERY MEMBER OF UNLAWFUL ASSEMBLY GUILTY OF OFFENCE COMMITTED IN PROSECUTION OF THE COMMON OBJECT</p>",
+        "solution": " ",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -1003,47 +1003,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c087bf08d43",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Under Indian Penal Code, 1860, whoever does anything with the intention of causing wrongful gain to one person or wrongful loss to another person is said to do that thing _________.<o:p></o:p></span></strong></p>",
+        "_id": "624abdee0bc69a70eda6faf6",
+        "name": "<p><span style=\"font-size: 14pt;\"><strong>Difference between contract of indemnity and contract of guarantee is </strong></span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Under Indian Penal Code, 1860, whoever does anything with the intention of causing wrongful gain to one person or wrongful loss to another person is said to do that thing _________.",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Difference between contract of indemnity and contract of guarantee is ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 18,
         "questionSubmitOrder": 18,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Fraudulently<o:p></o:p></span></p>",
-                "nameText": "Fraudulently",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e22accc33a4d",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Falsely&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Falsely ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2043ec33a4e",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Dishonestly<o:p></o:p></span></p>",
-                "nameText": "Dishonestly",
+                "name": "<p><strong>That the former is a contract to save another from loss and the latter is a contract to perform the promise of a third person in case of his default. </strong></p>",
+                "nameText": "That the former is a contract to save another from loss and the latter is a contract to perform the promise of a third person in case of his default. ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2c639c33a4f",
+                "_id": "62498fcfc61a118147d006ea",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Wrongfully<o:p></o:p></span></p>",
-                "nameText": "Wrongfully",
+                "name": "<p><strong>That the former is a contract to discharge the liability of the third party while the latter is a contract to protect against loss.</strong></p>",
+                "nameText": "That the former is a contract to discharge the liability of the third party while the latter is a contract to protect against loss.",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e28c03c33a50",
+                "_id": "62498fcfc61a11b7d2d006eb",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong>That the former is a cover against the loss if the loss was caused by the promisor himself and not otherwise.</strong></p>",
+                "nameText": "That the former is a cover against the loss if the loss was caused by the promisor himself and not otherwise.",
+                "isCorrect": false,
+                "_id": "62498fcfc61a11f2bfd006ec",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong>That the latter should always be in writing while the former could be oral.</strong></p>",
+                "nameText": "That the latter should always be in writing while the former could be oral.",
+                "isCorrect": false,
+                "_id": "62498fcfc61a1199c1d006ed",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 24. DISHONESTLY&nbsp;</p>",
+        "solution": " ",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -1062,50 +1062,50 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c0852f08d5c",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">The Words &ldquo;Will&rdquo; is defined in<o:p></o:p></span></strong></p>",
+        "_id": "624abdee0bc69a2ee0a6fad9",
+        "name": "<p><span style=\"font-size: 14pt;\"><strong>What will be the effect of mistake as to law in force on the agreement</strong></span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "The Words “Will” is defined in",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "What will be the effect of mistake as to law in force on the agreement",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 19,
         "questionSubmitOrder": 19,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Transfer of Property Act<o:p></o:p></span></p>",
-                "nameText": "Transfer of Property Act",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e23c49c33a51",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">The Indian Penal Code<o:p></o:p></span></p>",
-                "nameText": "The Indian Penal Code",
+                "name": "<p><strong>Not voidable</strong></p>",
+                "nameText": "Not voidable",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2acfec33a52",
+                "_id": "62498fcfc61a1193a9d006f4",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">The Indian Succession Act<o:p></o:p></span></p>",
-                "nameText": "The Indian Succession Act",
+                "name": "<p><strong>Voidable</strong></p>",
+                "nameText": "Voidable",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e28357c33a53",
+                "_id": "62498fcfc61a113794d006f5",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">All of the above<o:p></o:p></span></p>",
-                "nameText": "All of the above",
+                "name": "<p><strong>Void.</strong></p>",
+                "nameText": "Void.",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e2583fc33a54",
+                "_id": "62498fcfc61a11b6b9d006f6",
+                "isMarked": true
+            },
+            {
+                "name": "<p><strong>Not void</strong></p>",
+                "nameText": "Not void",
+                "isCorrect": false,
+                "_id": "62498fcfc61a113e04d006f7",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 31. A WILL</p>",
+        "solution": " ",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
-        "isAttempted": false,
+        "isAttempted": true,
         "isPartiallyCorrect": false,
         "isCorrect": false,
         "isGraceMarked": false,
@@ -1114,54 +1114,54 @@
             "positive": 0,
             "negative": 0
         },
-        "timeTaken": 0,
+        "timeTaken": 40000,
         "markForReview": false,
         "isGpscType": false,
         "isSurrendered": false,
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c4b24f08d66",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Three persons A, B &amp; C went to a Bank.&nbsp; A stood outside the bank holding a revolver with him and watching at the road.&nbsp; B &amp; C entered the bank and asked the cashier by showing revolvers at him, to handover the cash to them.&nbsp; On the refusal to do so, C shot at the cashier and took away money from Counter. Now<o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9f69e66bb021",
+        "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1;\">Promises which form the consideration or part of the consideration for each other are</span></strong> <strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1;\">called</span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Three persons A, B & C went to a Bank.  A stood outside the bank holding a revolver with him and watching at the road.  B & C entered the bank and asked the cashier by showing revolvers at him, to handover the cash to them.  On the refusal to do so, C shot at the cashier and took away money from Counter. Now",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Promises which form the consideration or part of the consideration for each other are called",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 20,
         "questionSubmitOrder": 20,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">C is liable for the murder and A &amp; B are liable for abetment<o:p></o:p></span></p>",
-                "nameText": "C is liable for the murder and A & B are liable for abetment",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e254c3c33a41",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">B &amp; C are liable for murder and A is liable for abetment<o:p></o:p></span></p>",
-                "nameText": "B & C are liable for murder and A is liable for abetment",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2bde6c33a42",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">A, B &amp; C are liable for murder<o:p></o:p></span></p>",
-                "nameText": "A, B & C are liable for murder",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">reciprocal promises&nbsp;</span></p>",
+                "nameText": "reciprocal promises ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e29d4ac33a43",
+                "_id": "61d59351cf4d9f6c596bb01d",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">None of them is liable because it is not a murder but only culpable homicide not amounting to murder.&nbsp;<o:p></o:p></span></p>",
-                "nameText": "None of them is liable because it is not a murder but only culpable homicide not amounting to murder. ",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">cross offers&nbsp;</span></p>",
+                "nameText": "cross offers ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e27e5ac33a44",
+                "_id": "61d59351cf4d9f33d06bb01e",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">conditional offer&nbsp;&nbsp;</span></p>",
+                "nameText": "conditional offer  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f619b6bb01f",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">conditional promises.&nbsp;&nbsp;</span></p>",
+                "nameText": "conditional promises.  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f10936bb020",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 34. ACTS DONE BY SEVERAL PERSONS IN FURTHERANCE OF COMMON INTENTION</p>",
+        "solution": "",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -1180,47 +1180,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915cc091f08d3e",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Under IPC, Wrongful gain includes&nbsp;&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "624abdee0bc69a6d8fa6fb0b",
+        "name": "<p><span style=\"font-size: 14pt;\"><strong>An agreement not supported by consideration is called_</strong> </span></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Under IPC, Wrongful gain includes  ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "An agreement not supported by consideration is called_ ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 21,
         "questionSubmitOrder": 21,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">Wrongful retention&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Wrongful retention ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2303fc33a0b",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">Wrongful appropriation&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Wrongful appropriation ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2659ec33a0c",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%; margin: 0cm 0cm 0cm -22.5pt;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">&nbsp; &nbsp; &nbsp; Wrongful acquisition&nbsp;<o:p></o:p></span></p>",
-                "nameText": "      Wrongful acquisition ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2374ec33a0d",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; text-indent: -40.5pt; line-height: 115%; margin: 0cm 0cm 0cm 18.0pt;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">&nbsp; &nbsp; &nbsp; Both a and c&nbsp;<o:p></o:p></span></p>",
-                "nameText": "      Both a and c ",
+                "name": "<p><strong>Nudum Pactum</strong></p>",
+                "nameText": "Nudum Pactum",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e27c91c33a0e",
+                "_id": "62498fcfc61a115302d006f9",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong>Consensus Ad Idem</strong></p>",
+                "nameText": "Consensus Ad Idem",
+                "isCorrect": false,
+                "_id": "62498fcfc61a11bb60d006fa",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong>Quid Pro Quo</strong></p>",
+                "nameText": "Quid Pro Quo",
+                "isCorrect": false,
+                "_id": "62498fcfc61a114d2cd006fb",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong>Noscitur A Sociis</strong></p>",
+                "nameText": "Noscitur A Sociis",
+                "isCorrect": false,
+                "_id": "62498fcfc61a11d9bad006fc",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 23. WRONGFUL GAIN, WRONGFUL LOSS</p>",
+        "solution": " ",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -1239,33 +1239,519 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c2ba7f08d6b",
-        "name": "<p class=\"MsoListParagraph\" style=\"margin-left: 0cm; mso-add-space: auto; text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 34 of I.P.C.&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "61d59351cf4d9f9f486bb01c",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Every promise and every set of promises, forming the consideration for each other, is an&nbsp;</span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Section 34 of I.P.C. ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "nameText": "Every promise and every set of promises, forming the consideration for each other, is an ",
+        "sectionId": "628094d11794dcb143a030f7",
         "order": 22,
         "questionSubmitOrder": 22,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Creates a substantive offence<o:p></o:p></span></p>",
-                "nameText": "Creates a substantive offence",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e22655c33a33",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement&nbsp;</span></p>",
+                "nameText": "agreement ",
+                "isCorrect": true,
+                "_id": "61d59351cf4d9f749e6bb018",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Is a rule of evidence<o:p></o:p></span></p>",
-                "nameText": "Is a rule of evidence",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e24d20c33a34",
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">contract&nbsp;</span></p>",
+                "nameText": "contract ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f8cde6bb019",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">offer&nbsp;&nbsp;</span></p>",
+                "nameText": "offer  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9ff2c76bb01a",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">acceptance.&nbsp;</span></p>",
+                "nameText": "acceptance. ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f43976bb01b",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 34. ACTS DONE BY SEVERAL PERSONS IN FURTHERANCE OF COMMON INTENTION</p>",
+        "solution": "",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "61d59351cf4d9f067f6bb044",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Promises which form the consideration or part thereof, for each other under section 2(f) are called</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Promises which form the consideration or part thereof, for each other under section 2(f) are called  ",
+        "sectionId": "628094d11794dcb143a030f7",
+        "order": 23,
+        "questionSubmitOrder": 23,
+        "options": [
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">acceptances for different proposals&nbsp;</span></p>",
+                "nameText": "acceptances for different proposals ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f878a6bb040",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreements&nbsp;</span></p>",
+                "nameText": "agreements ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9fdb716bb041",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">reciprocal promises&nbsp;&nbsp;</span></p>",
+                "nameText": "reciprocal promises  ",
+                "isCorrect": true,
+                "_id": "61d59351cf4d9f04f76bb042",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">consideration.&nbsp;&nbsp;</span></p>",
+                "nameText": "consideration.  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f9e906bb043",
+                "isMarked": false
+            }
+        ],
+        "solution": "",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "61d59351cf4d9f15d66bb030",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Offer as defined under section 2(a) is</span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Offer as defined under section 2(a) is",
+        "sectionId": "628094d11794dcb143a030f7",
+        "order": 24,
+        "questionSubmitOrder": 24,
+        "options": [
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">communication from one person to another&nbsp;</span></p>",
+                "nameText": "communication from one person to another ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f606c6bb02c",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">suggestion by one person to another&nbsp;&nbsp;</span></p>",
+                "nameText": "suggestion by one person to another  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9fb9a36bb02d",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">willingness to do or abstain from doing an act in order to obtain the assent of other thereto&nbsp;&nbsp;</span></p>",
+                "nameText": "willingness to do or abstain from doing an act in order to obtain the assent of other thereto  ",
+                "isCorrect": true,
+                "_id": "61d59351cf4d9f93cc6bb02e",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">none of the above.&nbsp;&nbsp;</span></p>",
+                "nameText": "none of the above.  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f22f56bb02f",
+                "isMarked": false
+            }
+        ],
+        "solution": "",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "624abdee0bc69a0189a6faff",
+        "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\"><span style=\"font-size: 14pt;\">A agrees to let her daughter to hire to B for concubinage. The agreement is:</span></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "A agrees to let her daughter to hire to B for concubinage. The agreement is:",
+        "sectionId": "628094d11794dcb143a030f7",
+        "order": 25,
+        "questionSubmitOrder": 25,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">valid</span></strong></p>",
+                "nameText": "valid",
+                "isCorrect": false,
+                "_id": "62498fcfc61a114c20d00717",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">voidable</span></strong></p>",
+                "nameText": "voidable",
+                "isCorrect": false,
+                "_id": "62498fcfc61a111ce0d00718",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">enforceable</span></strong></p>",
+                "nameText": "enforceable",
+                "isCorrect": false,
+                "_id": "62498fcfc61a119973d00719",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">void</span></strong></p>",
+                "nameText": "void",
+                "isCorrect": true,
+                "_id": "62498fcfc61a11767ed0071a",
+                "isMarked": false
+            }
+        ],
+        "solution": " ",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "61d59351cf4d9f5a166bb062",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Under section 2(c) promisee is the&nbsp;</span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Under section 2(c) promisee is the ",
+        "sectionId": "628094d11794dcb143a030f7",
+        "order": 26,
+        "questionSubmitOrder": 26,
+        "options": [
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who makes the proposal&nbsp;</span></p>",
+                "nameText": "person who makes the proposal ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9fdb4b6bb05e",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who accepts the proposal&nbsp;</span></p>",
+                "nameText": "person who accepts the proposal ",
+                "isCorrect": true,
+                "_id": "61d59351cf4d9f51736bb05f",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who makes the promise&nbsp;</span></p>",
+                "nameText": "person who makes the promise ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f1fe46bb060",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person to whom proposal is made.&nbsp;&nbsp;</span></p>",
+                "nameText": "person to whom proposal is made.  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f32276bb061",
+                "isMarked": false
+            }
+        ],
+        "solution": "",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "61d59351cf4d9f8d246bb05d",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Under section 2(C)&nbsp;</span></strong><strong><span style=\"color: black; font-family: Lato, sans-serif; font-size: 14pt;\">promisor is the</span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Under section 2(C) promisor is the",
+        "sectionId": "628094d11794dcb143a030f7",
+        "order": 27,
+        "questionSubmitOrder": 27,
+        "options": [
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who makes the proposal&nbsp;</span></p>",
+                "nameText": "person who makes the proposal ",
+                "isCorrect": true,
+                "_id": "61d59351cf4d9fa3566bb059",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who accepts the proposal&nbsp;</span></p>",
+                "nameText": "person who accepts the proposal ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9fb52d6bb05a",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who makes the promise&nbsp;</span></p>",
+                "nameText": "person who makes the promise ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9fadbe6bb05b",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person to whom the proposal is made.&nbsp;&nbsp;</span></p>",
+                "nameText": "person to whom the proposal is made.  ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f01ea6bb05c",
+                "isMarked": false
+            }
+        ],
+        "solution": "",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "61d59351cf4d9f007e6bb058",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">In a valid contract, what comes first</span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "In a valid contract, what comes first",
+        "sectionId": "628094d11794dcb143a030f7",
+        "order": 28,
+        "questionSubmitOrder": 28,
+        "options": [
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">enforceability&nbsp;</span></p>",
+                "nameText": "enforceability ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9fa4b46bb054",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">acceptance</span></p>",
+                "nameText": "acceptance",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9f81456bb055",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">promise&nbsp;</span></p>",
+                "nameText": "promise ",
+                "isCorrect": false,
+                "_id": "61d59351cf4d9fdf5a6bb056",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">proposal.&nbsp;</span></p>",
+                "nameText": "proposal. ",
+                "isCorrect": true,
+                "_id": "61d59351cf4d9faf116bb057",
+                "isMarked": false
+            }
+        ],
+        "solution": "",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "624abdee0bc69a8282a6fad6",
+        "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\"><span style=\"font-size: 14pt;\">An agreement by which any one is restrained from exercising a lawful profession is:&nbsp;</span></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "An agreement by which any one is restrained from exercising a lawful profession is: ",
+        "sectionId": "628094d11794dcb143a030f7",
+        "order": 29,
+        "questionSubmitOrder": 29,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">voidable&nbsp;</span></strong></p>",
+                "nameText": "voidable ",
+                "isCorrect": false,
+                "_id": "62498fcfc61a118b5ed00712",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">void&nbsp;</span></strong></p>",
+                "nameText": "void ",
+                "isCorrect": true,
+                "_id": "62498fcfc61a11d831d00713",
+                "isMarked": true
+            },
+            {
+                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">valid</span></strong></p>",
+                "nameText": "valid",
+                "isCorrect": false,
+                "_id": "62498fcfc61a117e06d00714",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">enforceable</span></strong></p>",
+                "nameText": "enforceable",
+                "isCorrect": false,
+                "_id": "62498fcfc61a119274d00715",
+                "isMarked": false
+            }
+        ],
+        "solution": " ",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": true,
+        "isPartiallyCorrect": false,
+        "isCorrect": true,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 1,
+            "negative": 0
+        },
+        "timeTaken": 21000,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "624abdee0bc69a7684a6fae0",
+        "name": "<p><span style=\"font-size: 14pt;\"><strong>The Indian contract Act imposes a responsibility upon a finder of goods</strong></span></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "The Indian contract Act imposes a responsibility upon a finder of goods",
+        "sectionId": "628094d11794dcb143a030f7",
+        "order": 30,
+        "questionSubmitOrder": 30,
+        "options": [
+            {
+                "name": "<p><strong>To the same extent as a bailee</strong></p>",
+                "nameText": "To the same extent as a bailee",
+                "isCorrect": false,
+                "_id": "62498fcfc61a1139b6d006e5",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong>To hand it over to the police</strong></p>",
+                "nameText": "To hand it over to the police",
+                "isCorrect": false,
+                "_id": "62498fcfc61a11f268d006e6",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong>To the same extent as bailee, if he takes them into his custody. </strong></p>",
+                "nameText": "To the same extent as bailee, if he takes them into his custody. ",
+                "isCorrect": true,
+                "_id": "62498fcfc61a11cb7ed006e7",
+                "isMarked": false
+            },
+            {
+                "name": "<p><strong>None of the above.</strong></p>",
+                "nameText": "None of the above.",
+                "isCorrect": false,
+                "_id": "62498fcfc61a11576dd006e8",
+                "isMarked": false
+            }
+        ],
+        "solution": " ",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
