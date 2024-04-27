@@ -38,7 +38,7 @@ body {
 </style>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    fetch('data.json')
+    fetch('jsonData.json')
         .then(response => response.json())
         .then(data => {
             const questionsContainer = document.getElementById('questions');
