@@ -1,105 +1,46 @@
 [
     {
-        "_id": "64aeb7feb2915c1f34f08d70",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Five persons went to A&rsquo;s house armed with bats to beat A. One (X) amongst the five persons was carrying a pistol concealed underneath his shirt.&nbsp; During the incident of beating, X fired a shot resulting in A&rsquo;s death:<o:p></o:p></span></strong></p>",
+        "_id": "64aeb7feb2915c4146f08d61",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Under the Indian Penal Code, words which refer to acts done, extend also to&nbsp;<o:p></o:p></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Five persons went to A’s house armed with bats to beat A. One (X) amongst the five persons was carrying a pistol concealed underneath his shirt.  During the incident of beating, X fired a shot resulting in A’s death:",
+        "nameText": "Under the Indian Penal Code, words which refer to acts done, extend also to ",
         "sectionId": "64aeb7f734f90929cc6a74c3",
         "order": 1,
         "questionSubmitOrder": 1,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">All being members of unlawful assembly are liable for causing death<o:p></o:p></span></p>",
-                "nameText": "All being members of unlawful assembly are liable for causing death",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Omissions<o:p></o:p></span></p>",
+                "nameText": "Omissions",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e25bf5c33a23",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Illegal Omissions<o:p></o:p></span></p>",
+                "nameText": "Illegal Omissions",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2f104c33a13",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">All will be liable only for beating A&nbsp;<o:p></o:p></span></p>",
-                "nameText": "All will be liable only for beating A ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e24d3cc33a14",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Only X will be liable for causing death&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Only X will be liable for causing death ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2589ec33a15",
+                "_id": "64aebe6ca379e2697bc33a24",
                 "isMarked": true
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">None of the above<o:p></o:p></span></p>",
-                "nameText": "None of the above",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Commissions&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Commissions ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e21d73c33a16",
+                "_id": "64aebe6ca379e23905c33a25",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Illegal Commissions <o:p></o:p></span></p>",
+                "nameText": "Illegal Commissions ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e289f3c33a26",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 149. EVERY MEMBER OF UNLAWFUL ASSEMBLY GUILTY OF OFFENCE COMMITTED IN PROSECUTION OF THE COMMON OBJECT</p>",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": true,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 144000,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "64aeb7feb2915c23daf08d89",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">The word &ldquo;injury&rdquo; in the Indian Penal Code means:&nbsp;<o:p></o:p></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "The word “injury” in the Indian Penal Code means: ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 2,
-        "questionSubmitOrder": 2,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Injury to the body of a person&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Injury to the body of a person ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e24a5ac33a17",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Injury to the property&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Injury to the property ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e22b76c33a18",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Injury to the mind&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Injury to the mind ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e26a27c33a19",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Injury to the body, mind, reputation or property&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Injury to the body, mind, reputation or property ",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e2bf02c33a1a",
-                "isMarked": true
-            }
-        ],
-        "solution": "<p>SECTION 44.&nbsp; INJURY</p>",
+        "solution": "<p>SECTION 32. WORDS REFFERING TO ACTS INCLUDE ILLEGAL OMISSIONS</p>",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": true,
@@ -111,302 +52,7 @@
             "positive": 1,
             "negative": 0
         },
-        "timeTaken": 20000,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "64aeb7feb2915c508af08d75",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Section 34 of the IPC&nbsp;<o:p></o:p></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Section 34 of the IPC ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 3,
-        "questionSubmitOrder": 3,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Creates a substantive offence&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Creates a substantive offence ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e21b1cc33a55",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Introduces the principle of vicarious liability for an offence committed by the co-accused&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Introduces the principle of vicarious liability for an offence committed by the co-accused ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2098ac33a56",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Recognizes that the co-participant in a crime must be made liable for his act in the commission of the crime by the co-accused<o:p></o:p></span></p>",
-                "nameText": "Recognizes that the co-participant in a crime must be made liable for his act in the commission of the crime by the co-accused",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e21a7ec33a57",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Both b and c&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Both b and c ",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e25f42c33a58",
-                "isMarked": false
-            }
-        ],
-        "solution": "<p>SECTION 34. ACTS DONE BY SEVERAL PERSONS IN FURTHERANCE OF COMMON INTENTION</p>",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "64aeb7feb2915c087bf08d43",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Under Indian Penal Code, 1860, whoever does anything with the intention of causing wrongful gain to one person or wrongful loss to another person is said to do that thing _________.<o:p></o:p></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Under Indian Penal Code, 1860, whoever does anything with the intention of causing wrongful gain to one person or wrongful loss to another person is said to do that thing _________.",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 4,
-        "questionSubmitOrder": 4,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Fraudulently<o:p></o:p></span></p>",
-                "nameText": "Fraudulently",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e22accc33a4d",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Falsely&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Falsely ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2043ec33a4e",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Dishonestly<o:p></o:p></span></p>",
-                "nameText": "Dishonestly",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e2c639c33a4f",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Wrongfully<o:p></o:p></span></p>",
-                "nameText": "Wrongfully",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e28c03c33a50",
-                "isMarked": false
-            }
-        ],
-        "solution": "<p>SECTION 24. DISHONESTLY&nbsp;</p>",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "64aeb7feb2915c239df08d2a",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">&lsquo;India&rsquo; has been defined in&nbsp;<o:p></o:p></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "‘India’ has been defined in ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 5,
-        "questionSubmitOrder": 5,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Section 1 of IPC<o:p></o:p></span></p>",
-                "nameText": "Section 1 of IPC",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2dd05c33a2b",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Section 2 of IPC<o:p></o:p></span></p>",
-                "nameText": "Section 2 of IPC",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2636bc33a2c",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 18 of IPC<o:p></o:p></span></p>",
-                "nameText": "Section 18 of IPC",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e28351c33a2d",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Section 16 of IPC&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 16 of IPC ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2be5cc33a2e",
-                "isMarked": false
-            }
-        ],
-        "solution": "<p>SECTION 18. INDIA</p>",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "64aeb7feb2915c0852f08d5c",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">The Words &ldquo;Will&rdquo; is defined in<o:p></o:p></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "The Words “Will” is defined in",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 6,
-        "questionSubmitOrder": 6,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Transfer of Property Act<o:p></o:p></span></p>",
-                "nameText": "Transfer of Property Act",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e23c49c33a51",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">The Indian Penal Code<o:p></o:p></span></p>",
-                "nameText": "The Indian Penal Code",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e2acfec33a52",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">The Indian Succession Act<o:p></o:p></span></p>",
-                "nameText": "The Indian Succession Act",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e28357c33a53",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">All of the above<o:p></o:p></span></p>",
-                "nameText": "All of the above",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2583fc33a54",
-                "isMarked": false
-            }
-        ],
-        "solution": "<p>SECTION 31. A WILL</p>",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "64aeb7feb2915cc091f08d3e",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Under IPC, Wrongful gain includes&nbsp;&nbsp;<o:p></o:p></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Under IPC, Wrongful gain includes  ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 7,
-        "questionSubmitOrder": 7,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">Wrongful retention&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Wrongful retention ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2303fc33a0b",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">Wrongful appropriation&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Wrongful appropriation ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2659ec33a0c",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%; margin: 0cm 0cm 0cm -22.5pt;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">&nbsp; &nbsp; &nbsp; Wrongful acquisition&nbsp;<o:p></o:p></span></p>",
-                "nameText": "      Wrongful acquisition ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2374ec33a0d",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; text-indent: -40.5pt; line-height: 115%; margin: 0cm 0cm 0cm 18.0pt;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">&nbsp; &nbsp; &nbsp; Both a and c&nbsp;<o:p></o:p></span></p>",
-                "nameText": "      Both a and c ",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e27c91c33a0e",
-                "isMarked": false
-            }
-        ],
-        "solution": "<p>SECTION 23. WRONGFUL GAIN, WRONGFUL LOSS</p>",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
+        "timeTaken": 69000,
         "markForReview": false,
         "isGpscType": false,
         "isSurrendered": false,
@@ -419,10 +65,10 @@
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "The difference between section 34 and section 149 of Indian Penal Code is: ",
+        "nameText": "The difference between section 34 and section 149 of Indian Penal Code is: ",
         "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 8,
-        "questionSubmitOrder": 8,
+        "order": 2,
+        "questionSubmitOrder": 2,
         "options": [
             {
                 "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">that whereas in section 34 there must at atleast be five persons, section 149 requires only two persons<o:p></o:p></span></p>",
@@ -440,7 +86,7 @@
             },
             {
                 "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">that section 34 requires active participation in action whereas section 149 requires mere passive membership of the unlawful assembly&nbsp;<o:p></o:p></span></p>",
-                "nameText": "that section 34 requires active participation in action whereas section 149 requires mere passive membership of the unlawful assembly ",
+                "nameText": "that section 34 requires active participation in action whereas section 149 requires mere passive membership of the unlawful assembly ",
                 "isCorrect": true,
                 "_id": "64aebe6ca379e2348cc33a47",
                 "isMarked": false
@@ -465,99 +111,54 @@
             "positive": 0,
             "negative": 0
         },
-        "timeTaken": 0,
+        "timeTaken": 6000,
         "markForReview": false,
         "isGpscType": false,
         "isSurrendered": false,
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c70c8f08d2f",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\"><span style=\"font-family: 'times new roman', times;\">The Word &ldquo;Judge&rdquo; is defined in</span><o:p></o:p></span></strong></p>",
+        "_id": "64aeb7feb2915c23daf08d89",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">The word &ldquo;injury&rdquo; in the Indian Penal Code means:&nbsp;<o:p></o:p></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "The Word “Judge” is defined in",
+        "nameText": "The word “injury” in the Indian Penal Code means: ",
         "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 9,
-        "questionSubmitOrder": 9,
+        "order": 3,
+        "questionSubmitOrder": 3,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\"><span style=\"font-family: 'times new roman', times;\">The Indian Penal Code</span><o:p></o:p></span></p>",
-                "nameText": "The Indian Penal Code",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Injury to the body of a person&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Injury to the body of a person ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e26f7ec33a1b",
+                "_id": "64aebe6ca379e24a5ac33a17",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\"><span style=\"font-family: 'times new roman', times;\">The Civil Procedure Code</span><o:p></o:p></span></p>",
-                "nameText": "The Civil Procedure Code",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Injury to the property&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Injury to the property ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e252d3c33a1c",
+                "_id": "64aebe6ca379e22b76c33a18",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\"><span style=\"font-family: 'times new roman', times;\">The Criminal Procedure Code</span><o:p></o:p></span></p>",
-                "nameText": "The Criminal Procedure Code",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Injury to the mind&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Injury to the mind ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e2fdadc33a1d",
+                "_id": "64aebe6ca379e26a27c33a19",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\"><span style=\"font-family: 'times new roman', times;\">1 and 2 alone&nbsp;</span><o:p></o:p></span></p>",
-                "nameText": "1 and 2 alone ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Injury to the body, mind, reputation or property&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Injury to the body, mind, reputation or property ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2ebdac33a1e",
+                "_id": "64aebe6ca379e2bf02c33a1a",
                 "isMarked": false
             }
         ],
-        "solution": "<p><span style=\"font-family: 'Times New Roman';\">SECTION 19. JUDGE</span></p>",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "64aeb7feb2915c2ba7f08d6b",
-        "name": "<p class=\"MsoListParagraph\" style=\"margin-left: 0cm; mso-add-space: auto; text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 34 of I.P.C.&nbsp;<o:p></o:p></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Section 34 of I.P.C. ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 10,
-        "questionSubmitOrder": 10,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Creates a substantive offence<o:p></o:p></span></p>",
-                "nameText": "Creates a substantive offence",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e22655c33a33",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Is a rule of evidence<o:p></o:p></span></p>",
-                "nameText": "Is a rule of evidence",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e24d20c33a34",
-                "isMarked": false
-            }
-        ],
-        "solution": "<p>SECTION 34. ACTS DONE BY SEVERAL PERSONS IN FURTHERANCE OF COMMON INTENTION</p>",
+        "solution": "<p>SECTION 44.&nbsp; INJURY</p>",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -582,10 +183,10 @@
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "As per IPC a document ‘hereby any legal right is created, extended, restricted or released is ",
+        "nameText": "As per IPC a document ‘hereby any legal right is created, extended, restricted or released is ",
         "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 11,
-        "questionSubmitOrder": 11,
+        "order": 4,
+        "questionSubmitOrder": 4,
         "options": [
             {
                 "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Conveyance deed<o:p></o:p></span></p>",
@@ -610,7 +211,7 @@
             },
             {
                 "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Valuable security&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Valuable security ",
+                "nameText": "Valuable security ",
                 "isCorrect": true,
                 "_id": "64aebe6ca379e27f8ac33a12",
                 "isMarked": false
@@ -635,47 +236,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c2b28f08d4d",
-        "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">&lsquo;Electronic record&rsquo; under Section 29A of the Indian Penal Code shall have the meaning assigned to it as in of Information Technology Act, 2000.&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "64aeb7feb2915c487df08d34",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">The exhaustive meaning of public servant has been given in which section of the Indian Penal Code, 1860.</span></strong><o:p></o:p></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "‘Electronic record’ under Section 29A of the Indian Penal Code shall have the meaning assigned to it as in of Information Technology Act, 2000. ",
+        "nameText": "The exhaustive meaning of public servant has been given in which section of the Indian Penal Code, 1860.",
         "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 12,
-        "questionSubmitOrder": 12,
+        "order": 5,
+        "questionSubmitOrder": 5,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 2(1)(t)&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 2(1)(t) ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 16&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Section 16 ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e230cbc33a39",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 19&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Section 19 ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2ca02c33a3a",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 21&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Section 21 ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2c8c0c33a3d",
+                "_id": "64aebe6ca379e2bfd1c33a3b",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 2(1)(s)&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 2(1)(s) ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 14&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Section 14 ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e2329ec33a3e",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 2(1)(e)<o:p></o:p></span></p>",
-                "nameText": "Section 2(1)(e)",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2134dc33a3f",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Section 2(1)(d)<o:p></o:p></span></p>",
-                "nameText": "Section 2(1)(d)",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2211dc33a40",
+                "_id": "64aebe6ca379e2b11ec33a3c",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 29A. ELECTRONIC RECORD</p>",
+        "solution": "<p>SECTION 21. PUBLIC SERVANT</p>",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -694,283 +295,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915cd96bf08d8e",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">The Words &ldquo;year&rdquo; and &ldquo;Month&rdquo; are defined in IPC to mean the year of month according to&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "64aeb7feb2915c239df08d2a",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">&lsquo;India&rsquo; has been defined in&nbsp;<o:p></o:p></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "The Words “year” and “Month” are defined in IPC to mean the year of month according to ",
+        "nameText": "‘India’ has been defined in ",
         "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 13,
-        "questionSubmitOrder": 13,
+        "order": 6,
+        "questionSubmitOrder": 6,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">English calendar&nbsp;<o:p></o:p></span></p>",
-                "nameText": "English calendar ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Section 1 of IPC<o:p></o:p></span></p>",
+                "nameText": "Section 1 of IPC",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e22ec7c33a59",
+                "_id": "64aebe6ca379e2dd05c33a2b",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">British Calendar&nbsp;&nbsp;<o:p></o:p></span></p>",
-                "nameText": "British Calendar  ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Section 2 of IPC<o:p></o:p></span></p>",
+                "nameText": "Section 2 of IPC",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2636bc33a2c",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 18 of IPC<o:p></o:p></span></p>",
+                "nameText": "Section 18 of IPC",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e20a05c33a5a",
+                "_id": "64aebe6ca379e28351c33a2d",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Gregorian Calendar<o:p></o:p></span></p>",
-                "nameText": "Gregorian Calendar",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Section 16 of IPC&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Section 16 of IPC ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e23db5c33a5b",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">None of the above<o:p></o:p></span></p>",
-                "nameText": "None of the above",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2bcc9c33a5c",
+                "_id": "64aebe6ca379e2be5cc33a2e",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 49. \"YEAR\", \"MONTH\"</p>",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "64aeb7feb2915c151bf08d84",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%;\"><span style=\"font-family: 'times new roman', times;\">Ten persons were charged for offence under section 302/149 IPC, out of which six persons were acquitted, the remaining four.</span><o:p></o:p></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Ten persons were charged for offence under section 302/149 IPC, out of which six persons were acquitted, the remaining four.",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 14,
-        "questionSubmitOrder": 14,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">cannot be convicted for offence under section 302/149 of IPC</span><o:p></o:p></span></p>",
-                "nameText": "cannot be convicted for offence under section 302/149 of IPC",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e21554c33a35",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">cannot be convicted for offence under section 302 of IPC</span><o:p></o:p></span></p>",
-                "nameText": "cannot be convicted for offence under section 302 of IPC",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e29e05c33a36",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">cannot be convicted for offence under section 149 of IPC&nbsp;</span><o:p></o:p></span></p>",
-                "nameText": "cannot be convicted for offence under section 149 of IPC ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e26228c33a37",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">all the above</span><o:p></o:p></span></p>",
-                "nameText": "all the above",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e223f2c33a38",
-                "isMarked": false
-            }
-        ],
-        "solution": "<p><span style=\"font-family: 'Times New Roman';\">SECTION 149. EVERY MEMBER OF UNLAWFUL ASSEMBLY GUILTY OF OFFENCE COMMITTED IN PROSECUTION OF THE COMMON OBJECT</span></p>",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "64aeb7feb2915c16c4f08d52",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">Section 29A of the Indian Penal Code, 1860</span></strong><o:p></o:p></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Section 29A of the Indian Penal Code, 1860",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 15,
-        "questionSubmitOrder": 15,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Will<o:p></o:p></span></p>",
-                "nameText": "Will",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e23db0c33a2f",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Valuable Security<o:p></o:p></span></p>",
-                "nameText": "Valuable Security",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e23386c33a30",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Electronic Record<o:p></o:p></span></p>",
-                "nameText": "Electronic Record",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e2dfa6c33a31",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Documents<o:p></o:p></span></p>",
-                "nameText": "Documents",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e277b3c33a32",
-                "isMarked": false
-            }
-        ],
-        "solution": "<p>SECTION 29A. ELECTRONIC RECORD</p>",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "64aeb7feb2915c0cb7f08d48",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">For the purpose of IPC, the possession of ____ is the possession of the person</span></strong><o:p></o:p></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "For the purpose of IPC, the possession of ____ is the possession of the person",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 16,
-        "questionSubmitOrder": 16,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Wife<o:p></o:p></span></p>",
-                "nameText": "Wife",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e292f8c33a1f",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Clerk&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Clerk ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e27a47c33a20",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Servant&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Servant ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2a03dc33a21",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">All the above<o:p></o:p></span></p>",
-                "nameText": "All the above",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e23576c33a22",
-                "isMarked": false
-            }
-        ],
-        "solution": "<p>SECTION 27. PROPERTY IN POSSESSION OF WIFE, CLERK OR SERVANT</p>",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "64aeb7feb2915c55c3f08d7a",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">Y, a small boy was guarding the field. Z and M outsiders trespassed and stared harvesting, on protest by Y they beat him up and hearing his cries, X and P, uncles of Y who were working in different directions, rushed in, one of them X, fired at the trespassers killing one of them and ran away. P was arrested and charged under section 302 of IPC for murder read with section 34. Which of the following statements is correct?&nbsp;<o:p></o:p></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Y, a small boy was guarding the field. Z and M outsiders trespassed and stared harvesting, on protest by Y they beat him up and hearing his cries, X and P, uncles of Y who were working in different directions, rushed in, one of them X, fired at the trespassers killing one of them and ran away. P was arrested and charged under section 302 of IPC for murder read with section 34. Which of the following statements is correct? ",
-        "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 17,
-        "questionSubmitOrder": 17,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is liable for murder because of the similar intention of both the brothers&nbsp;<o:p></o:p></span></p>",
-                "nameText": "he is liable for murder because of the similar intention of both the brothers ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2788dc33a27",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is liable for murder because of the same intention of both the brothers&nbsp;<o:p></o:p></span></p>",
-                "nameText": "he is liable for murder because of the same intention of both the brothers ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e225f9c33a28",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is liable for murder because he was present when his brother forced at the trespassers&nbsp;<o:p></o:p></span></p>",
-                "nameText": "he is liable for murder because he was present when his brother forced at the trespassers ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2355bc33a29",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is not liable because there was no common intention to kill&nbsp;<o:p></o:p></span></p>",
-                "nameText": "he is not liable because there was no common intention to kill ",
-                "isCorrect": true,
-                "_id": "64aebe6ca379e2de37c33a2a",
-                "isMarked": false
-            }
-        ],
-        "solution": "<p>SECTION 34. ACTS DONE BY SEVERAL PERSONS IN FURTHERANCE OF COMMON INTENTION&nbsp;</p>",
+        "solution": "<p>SECTION 18. INDIA</p>",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -995,10 +360,10 @@
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Definition of ‘wrongful gain’ is as follows: ",
+        "nameText": "Definition of ‘wrongful gain’ is as follows: ",
         "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 18,
-        "questionSubmitOrder": 18,
+        "order": 7,
+        "questionSubmitOrder": 7,
         "options": [
             {
                 "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Gain by unlawful means of property to which person is not legally entitled<o:p></o:p></span></p>",
@@ -1048,20 +413,315 @@
         "difficultyLevel": null
     },
     {
+        "_id": "64aeb7feb2915c70c8f08d2f",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\"><span style=\"font-family: 'times new roman', times;\">The Word &ldquo;Judge&rdquo; is defined in</span><o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "The Word “Judge” is defined in",
+        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "order": 8,
+        "questionSubmitOrder": 8,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\"><span style=\"font-family: 'times new roman', times;\">The Indian Penal Code</span><o:p></o:p></span></p>",
+                "nameText": "The Indian Penal Code",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e26f7ec33a1b",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\"><span style=\"font-family: 'times new roman', times;\">The Civil Procedure Code</span><o:p></o:p></span></p>",
+                "nameText": "The Civil Procedure Code",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e252d3c33a1c",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\"><span style=\"font-family: 'times new roman', times;\">The Criminal Procedure Code</span><o:p></o:p></span></p>",
+                "nameText": "The Criminal Procedure Code",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2fdadc33a1d",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\"><span style=\"font-family: 'times new roman', times;\">1 and 2 alone&nbsp;</span><o:p></o:p></span></p>",
+                "nameText": "1 and 2 alone ",
+                "isCorrect": true,
+                "_id": "64aebe6ca379e2ebdac33a1e",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p><span style=\"font-family: 'Times New Roman';\">SECTION 19. JUDGE</span></p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb7feb2915c0cb7f08d48",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">For the purpose of IPC, the possession of ____ is the possession of the person</span></strong><o:p></o:p></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "For the purpose of IPC, the possession of ____ is the possession of the person",
+        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "order": 9,
+        "questionSubmitOrder": 9,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Wife<o:p></o:p></span></p>",
+                "nameText": "Wife",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e292f8c33a1f",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Clerk&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Clerk ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e27a47c33a20",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Servant&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Servant ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2a03dc33a21",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">All the above<o:p></o:p></span></p>",
+                "nameText": "All the above",
+                "isCorrect": true,
+                "_id": "64aebe6ca379e23576c33a22",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 27. PROPERTY IN POSSESSION OF WIFE, CLERK OR SERVANT</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb7feb2915c16c4f08d52",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">Section 29A of the Indian Penal Code, 1860</span></strong><o:p></o:p></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Section 29A of the Indian Penal Code, 1860",
+        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "order": 10,
+        "questionSubmitOrder": 10,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Will<o:p></o:p></span></p>",
+                "nameText": "Will",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e23db0c33a2f",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Valuable Security<o:p></o:p></span></p>",
+                "nameText": "Valuable Security",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e23386c33a30",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Electronic Record<o:p></o:p></span></p>",
+                "nameText": "Electronic Record",
+                "isCorrect": true,
+                "_id": "64aebe6ca379e2dfa6c33a31",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Documents<o:p></o:p></span></p>",
+                "nameText": "Documents",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e277b3c33a32",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 29A. ELECTRONIC RECORD</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb7feb2915c55c3f08d7a",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">Y, a small boy was guarding the field. Z and M outsiders trespassed and stared harvesting, on protest by Y they beat him up and hearing his cries, X and P, uncles of Y who were working in different directions, rushed in, one of them X, fired at the trespassers killing one of them and ran away. P was arrested and charged under section 302 of IPC for murder read with section 34. Which of the following statements is correct?&nbsp;<o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Y, a small boy was guarding the field. Z and M outsiders trespassed and stared harvesting, on protest by Y they beat him up and hearing his cries, X and P, uncles of Y who were working in different directions, rushed in, one of them X, fired at the trespassers killing one of them and ran away. P was arrested and charged under section 302 of IPC for murder read with section 34. Which of the following statements is correct? ",
+        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "order": 11,
+        "questionSubmitOrder": 11,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is liable for murder because of the similar intention of both the brothers&nbsp;<o:p></o:p></span></p>",
+                "nameText": "he is liable for murder because of the similar intention of both the brothers ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2788dc33a27",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is liable for murder because of the same intention of both the brothers&nbsp;<o:p></o:p></span></p>",
+                "nameText": "he is liable for murder because of the same intention of both the brothers ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e225f9c33a28",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is liable for murder because he was present when his brother forced at the trespassers&nbsp;<o:p></o:p></span></p>",
+                "nameText": "he is liable for murder because he was present when his brother forced at the trespassers ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2355bc33a29",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 106%;\"><span style=\"font-size: 14.0pt; line-height: 106%;\">he is not liable because there was no common intention to kill&nbsp;<o:p></o:p></span></p>",
+                "nameText": "he is not liable because there was no common intention to kill ",
+                "isCorrect": true,
+                "_id": "64aebe6ca379e2de37c33a2a",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 34. ACTS DONE BY SEVERAL PERSONS IN FURTHERANCE OF COMMON INTENTION&nbsp;</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb7feb2915c508af08d75",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Section 34 of the IPC&nbsp;<o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Section 34 of the IPC ",
+        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "order": 12,
+        "questionSubmitOrder": 12,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Creates a substantive offence&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Creates a substantive offence ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e21b1cc33a55",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Introduces the principle of vicarious liability for an offence committed by the co-accused&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Introduces the principle of vicarious liability for an offence committed by the co-accused ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2098ac33a56",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Recognizes that the co-participant in a crime must be made liable for his act in the commission of the crime by the co-accused<o:p></o:p></span></p>",
+                "nameText": "Recognizes that the co-participant in a crime must be made liable for his act in the commission of the crime by the co-accused",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e21a7ec33a57",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Both b and c&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Both b and c ",
+                "isCorrect": true,
+                "_id": "64aebe6ca379e25f42c33a58",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 34. ACTS DONE BY SEVERAL PERSONS IN FURTHERANCE OF COMMON INTENTION</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
         "_id": "64aeb7feb2915c7420f08d25",
         "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Under the Indian Penal Code, a person is defined as-&nbsp;<o:p></o:p></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Under the Indian Penal Code, a person is defined as- ",
+        "nameText": "Under the Indian Penal Code, a person is defined as- ",
         "sectionId": "64aeb7f734f90929cc6a74c3",
-        "order": 19,
-        "questionSubmitOrder": 19,
+        "order": 13,
+        "questionSubmitOrder": 13,
         "options": [
             {
                 "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Including any company or body of persons whether incorporated or not&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Including any company or body of persons whether incorporated or not ",
+                "nameText": "Including any company or body of persons whether incorporated or not ",
                 "isCorrect": true,
                 "_id": "64aebe6ca379e23e3bc33a07",
                 "isMarked": false
@@ -1107,13 +767,367 @@
         "difficultyLevel": null
     },
     {
+        "_id": "64aeb7feb2915c2b28f08d4d",
+        "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">&lsquo;Electronic record&rsquo; under Section 29A of the Indian Penal Code shall have the meaning assigned to it as in of Information Technology Act, 2000.&nbsp;<o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "‘Electronic record’ under Section 29A of the Indian Penal Code shall have the meaning assigned to it as in of Information Technology Act, 2000. ",
+        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "order": 14,
+        "questionSubmitOrder": 14,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 2(1)(t)&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Section 2(1)(t) ",
+                "isCorrect": true,
+                "_id": "64aebe6ca379e2c8c0c33a3d",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 2(1)(s)&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Section 2(1)(s) ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2329ec33a3e",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 2(1)(e)<o:p></o:p></span></p>",
+                "nameText": "Section 2(1)(e)",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2134dc33a3f",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Section 2(1)(d)<o:p></o:p></span></p>",
+                "nameText": "Section 2(1)(d)",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2211dc33a40",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 29A. ELECTRONIC RECORD</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb7feb2915cd96bf08d8e",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">The Words &ldquo;year&rdquo; and &ldquo;Month&rdquo; are defined in IPC to mean the year of month according to&nbsp;<o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "The Words “year” and “Month” are defined in IPC to mean the year of month according to ",
+        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "order": 15,
+        "questionSubmitOrder": 15,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">English calendar&nbsp;<o:p></o:p></span></p>",
+                "nameText": "English calendar ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e22ec7c33a59",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">British Calendar&nbsp;&nbsp;<o:p></o:p></span></p>",
+                "nameText": "British Calendar  ",
+                "isCorrect": true,
+                "_id": "64aebe6ca379e20a05c33a5a",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Gregorian Calendar<o:p></o:p></span></p>",
+                "nameText": "Gregorian Calendar",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e23db5c33a5b",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">None of the above<o:p></o:p></span></p>",
+                "nameText": "None of the above",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2bcc9c33a5c",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 49. \"YEAR\", \"MONTH\"</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb7feb2915c151bf08d84",
+        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%;\"><span style=\"font-family: 'times new roman', times;\">Ten persons were charged for offence under section 302/149 IPC, out of which six persons were acquitted, the remaining four.</span><o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Ten persons were charged for offence under section 302/149 IPC, out of which six persons were acquitted, the remaining four.",
+        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "order": 16,
+        "questionSubmitOrder": 16,
+        "options": [
+            {
+                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">cannot be convicted for offence under section 302/149 of IPC</span><o:p></o:p></span></p>",
+                "nameText": "cannot be convicted for offence under section 302/149 of IPC",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e21554c33a35",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">cannot be convicted for offence under section 302 of IPC</span><o:p></o:p></span></p>",
+                "nameText": "cannot be convicted for offence under section 302 of IPC",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e29e05c33a36",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">cannot be convicted for offence under section 149 of IPC&nbsp;</span><o:p></o:p></span></p>",
+                "nameText": "cannot be convicted for offence under section 149 of IPC ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e26228c33a37",
+                "isMarked": false
+            },
+            {
+                "name": "<p><span style=\"font-size: 14.0pt; line-height: 106%;\"><span style=\"font-family: 'times new roman', times;\">all the above</span><o:p></o:p></span></p>",
+                "nameText": "all the above",
+                "isCorrect": true,
+                "_id": "64aebe6ca379e223f2c33a38",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p><span style=\"font-family: 'Times New Roman';\">SECTION 149. EVERY MEMBER OF UNLAWFUL ASSEMBLY GUILTY OF OFFENCE COMMITTED IN PROSECUTION OF THE COMMON OBJECT</span></p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb7feb2915c1f34f08d70",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Five persons went to A&rsquo;s house armed with bats to beat A. One (X) amongst the five persons was carrying a pistol concealed underneath his shirt.&nbsp; During the incident of beating, X fired a shot resulting in A&rsquo;s death:<o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Five persons went to A’s house armed with bats to beat A. One (X) amongst the five persons was carrying a pistol concealed underneath his shirt.  During the incident of beating, X fired a shot resulting in A’s death:",
+        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "order": 17,
+        "questionSubmitOrder": 17,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">All being members of unlawful assembly are liable for causing death<o:p></o:p></span></p>",
+                "nameText": "All being members of unlawful assembly are liable for causing death",
+                "isCorrect": true,
+                "_id": "64aebe6ca379e2f104c33a13",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">All will be liable only for beating A&nbsp;<o:p></o:p></span></p>",
+                "nameText": "All will be liable only for beating A ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e24d3cc33a14",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Only X will be liable for causing death&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Only X will be liable for causing death ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2589ec33a15",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">None of the above<o:p></o:p></span></p>",
+                "nameText": "None of the above",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e21d73c33a16",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 149. EVERY MEMBER OF UNLAWFUL ASSEMBLY GUILTY OF OFFENCE COMMITTED IN PROSECUTION OF THE COMMON OBJECT</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb7feb2915c087bf08d43",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Under Indian Penal Code, 1860, whoever does anything with the intention of causing wrongful gain to one person or wrongful loss to another person is said to do that thing _________.<o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Under Indian Penal Code, 1860, whoever does anything with the intention of causing wrongful gain to one person or wrongful loss to another person is said to do that thing _________.",
+        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "order": 18,
+        "questionSubmitOrder": 18,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Fraudulently<o:p></o:p></span></p>",
+                "nameText": "Fraudulently",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e22accc33a4d",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Falsely&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Falsely ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2043ec33a4e",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Dishonestly<o:p></o:p></span></p>",
+                "nameText": "Dishonestly",
+                "isCorrect": true,
+                "_id": "64aebe6ca379e2c639c33a4f",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Wrongfully<o:p></o:p></span></p>",
+                "nameText": "Wrongfully",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e28c03c33a50",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 24. DISHONESTLY&nbsp;</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb7feb2915c0852f08d5c",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">The Words &ldquo;Will&rdquo; is defined in<o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "The Words “Will” is defined in",
+        "sectionId": "64aeb7f734f90929cc6a74c3",
+        "order": 19,
+        "questionSubmitOrder": 19,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Transfer of Property Act<o:p></o:p></span></p>",
+                "nameText": "Transfer of Property Act",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e23c49c33a51",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">The Indian Penal Code<o:p></o:p></span></p>",
+                "nameText": "The Indian Penal Code",
+                "isCorrect": true,
+                "_id": "64aebe6ca379e2acfec33a52",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">The Indian Succession Act<o:p></o:p></span></p>",
+                "nameText": "The Indian Succession Act",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e28357c33a53",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">All of the above<o:p></o:p></span></p>",
+                "nameText": "All of the above",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2583fc33a54",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 31. A WILL</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
         "_id": "64aeb7feb2915c4b24f08d66",
         "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Three persons A, B &amp; C went to a Bank.&nbsp; A stood outside the bank holding a revolver with him and watching at the road.&nbsp; B &amp; C entered the bank and asked the cashier by showing revolvers at him, to handover the cash to them.&nbsp; On the refusal to do so, C shot at the cashier and took away money from Counter. Now<o:p></o:p></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Three persons A, B & C went to a Bank.  A stood outside the bank holding a revolver with him and watching at the road.  B & C entered the bank and asked the cashier by showing revolvers at him, to handover the cash to them.  On the refusal to do so, C shot at the cashier and took away money from Counter. Now",
+        "nameText": "Three persons A, B & C went to a Bank.  A stood outside the bank holding a revolver with him and watching at the road.  B & C entered the bank and asked the cashier by showing revolvers at him, to handover the cash to them.  On the refusal to do so, C shot at the cashier and took away money from Counter. Now",
         "sectionId": "64aeb7f734f90929cc6a74c3",
         "order": 20,
         "questionSubmitOrder": 20,
@@ -1141,7 +1155,7 @@
             },
             {
                 "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">None of them is liable because it is not a murder but only culpable homicide not amounting to murder.&nbsp;<o:p></o:p></span></p>",
-                "nameText": "None of them is liable because it is not a murder but only culpable homicide not amounting to murder. ",
+                "nameText": "None of them is liable because it is not a murder but only culpable homicide not amounting to murder. ",
                 "isCorrect": false,
                 "_id": "64aebe6ca379e27e5ac33a44",
                 "isMarked": false
@@ -1166,47 +1180,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c4146f08d61",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Under the Indian Penal Code, words which refer to acts done, extend also to&nbsp;<o:p></o:p></span></strong></p>",
+        "_id": "64aeb7feb2915cc091f08d3e",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Under IPC, Wrongful gain includes&nbsp;&nbsp;<o:p></o:p></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Under the Indian Penal Code, words which refer to acts done, extend also to ",
+        "nameText": "Under IPC, Wrongful gain includes  ",
         "sectionId": "64aeb7f734f90929cc6a74c3",
         "order": 21,
         "questionSubmitOrder": 21,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Omissions<o:p></o:p></span></p>",
-                "nameText": "Omissions",
+                "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">Wrongful retention&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Wrongful retention ",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e25bf5c33a23",
+                "_id": "64aebe6ca379e2303fc33a0b",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Illegal Omissions<o:p></o:p></span></p>",
-                "nameText": "Illegal Omissions",
+                "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">Wrongful appropriation&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Wrongful appropriation ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2659ec33a0c",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%; margin: 0cm 0cm 0cm -22.5pt;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">&nbsp; &nbsp; &nbsp; Wrongful acquisition&nbsp;<o:p></o:p></span></p>",
+                "nameText": "      Wrongful acquisition ",
+                "isCorrect": false,
+                "_id": "64aebe6ca379e2374ec33a0d",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; text-indent: -40.5pt; line-height: 115%; margin: 0cm 0cm 0cm 18.0pt;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">&nbsp; &nbsp; &nbsp; Both a and c&nbsp;<o:p></o:p></span></p>",
+                "nameText": "      Both a and c ",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2697bc33a24",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Commissions&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Commissions ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e23905c33a25",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Illegal Commissions <o:p></o:p></span></p>",
-                "nameText": "Illegal Commissions ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e289f3c33a26",
+                "_id": "64aebe6ca379e27c91c33a0e",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 32. WORDS REFFERING TO ACTS INCLUDE ILLEGAL OMISSIONS</p>",
+        "solution": "<p>SECTION 23. WRONGFUL GAIN, WRONGFUL LOSS</p>",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
@@ -1225,47 +1239,33 @@
         "difficultyLevel": null
     },
     {
-        "_id": "64aeb7feb2915c487df08d34",
-        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">The exhaustive meaning of public servant has been given in which section of the Indian Penal Code, 1860.</span></strong><o:p></o:p></p>",
+        "_id": "64aeb7feb2915c2ba7f08d6b",
+        "name": "<p class=\"MsoListParagraph\" style=\"margin-left: 0cm; mso-add-space: auto; text-align: justify; line-height: 115%;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 34 of I.P.C.&nbsp;<o:p></o:p></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "The exhaustive meaning of public servant has been given in which section of the Indian Penal Code, 1860.",
+        "nameText": "Section 34 of I.P.C. ",
         "sectionId": "64aeb7f734f90929cc6a74c3",
         "order": 22,
         "questionSubmitOrder": 22,
         "options": [
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 16&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 16 ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-weight: bold;\">Creates a substantive offence<o:p></o:p></span></p>",
+                "nameText": "Creates a substantive offence",
                 "isCorrect": false,
-                "_id": "64aebe6ca379e230cbc33a39",
+                "_id": "64aebe6ca379e22655c33a33",
                 "isMarked": false
             },
             {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 19&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 19 ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2ca02c33a3a",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 21&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 21 ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Is a rule of evidence<o:p></o:p></span></p>",
+                "nameText": "Is a rule of evidence",
                 "isCorrect": true,
-                "_id": "64aebe6ca379e2bfd1c33a3b",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 115%; mso-ansi-language: EN-US;\">Section 14&nbsp;<o:p></o:p></span></p>",
-                "nameText": "Section 14 ",
-                "isCorrect": false,
-                "_id": "64aebe6ca379e2b11ec33a3c",
+                "_id": "64aebe6ca379e24d20c33a34",
                 "isMarked": false
             }
         ],
-        "solution": "<p>SECTION 21. PUBLIC SERVANT</p>",
+        "solution": "<p>SECTION 34. ACTS DONE BY SEVERAL PERSONS IN FURTHERANCE OF COMMON INTENTION</p>",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
