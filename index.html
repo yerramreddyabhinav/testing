@@ -29,7 +29,7 @@
         <div class="board has-text-centered columns is-multiline">
             <table>
                 <tr v-for="(row, indexRow) in board">
-                    <td v-for="(col, indexCol) in row"><button v-text="class=cell-{{indexRow}}-{{indexCol}}" v-on:click="play(indexRow+1,indexCol+1)">&nbsp;{{ col }}&nbsp;</button></td>
+                    <td v-for="(col, indexCol) in row"><button class="" v-on:click="play(indexRow+1,indexCol+1)">&nbsp;{{ col }}&nbsp;</button></td>
                 </tr>
             </table>
         </div>
