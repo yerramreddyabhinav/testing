@@ -1,89 +1,51 @@
 <!DOCTYPE html>
-<html lang="en">
+<html data-theme="dark">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Question Analysis</title>
-<style>
-body {
-    font-family: Arial, sans-serif;
-    padding: 20px;
-}
-
-.question {
-    margin-bottom: 20px;
-    padding: 10px;
-    background-color: #f9f9f9;
-    border-left: 5px solid #333;
-}
-
-.correct {
-    color: green;
-    font-weight: bold;
-}
-
-.incorrect {
-    color: red;
-}
-
-.title {
-    font-size: 16px;
-    font-weight: bold;
-}
-
-.options {
-    margin-top: 5px;
-}
-
-</style>
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    fetch('jsonData.json')
-        .then(response => response.json())
-        .then(data => {
-            const questionsContainer = document.getElementById('questions');
-			let qno=1;
-            data.forEach(question => {
-                let questionDiv = document.createElement('div');
-                questionDiv.className = 'question';
-                
-                let title = document.createElement('div');
-                title.className = 'title';
-                title.textContent = 'Question'+ qno +': '+ question.nameText;
-                qno++;
-                questionDiv.appendChild(title);
-                
-                let optionsList = document.createElement('div');
-                optionsList.className = 'options';
-                
-                question.options.forEach(option => {
-                    let optionSpan = document.createElement('span');
-                    optionSpan.textContent = option.nameText;
-                    optionSpan.className = option.isCorrect ? 'correct' : 'incorrect';
-                    optionsList.appendChild(optionSpan);
-                    optionsList.appendChild(document.createElement('br'));
-                });
-
-                questionDiv.appendChild(optionsList);
-
-                if (question.solution && question.solution.trim() !== "") {
-                    let solutionDiv = document.createElement('div');
-                    solutionDiv.className = 'solution';
-                    solutionDiv.textContent = "Solution: " + question.solution;
-                    questionDiv.appendChild(solutionDiv);
-                }
-
-                questionsContainer.appendChild(questionDiv);
-            });
-        })
-        .catch(error => console.error('Error loading the questions:', error));
-});
-
-
-</script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Meghana Assignment3</title>
+    <style>
+        .cell { 
+            border: 5px; 
+            width: 40px; 
+            height: 40px; 
+        }
+        .board {
+            margin-top: 40px;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
 </head>
-<body>
-<div id="questions"></div>
-
+<body id="myapp">
+    <section class="section">
+        <div class="container">
+            <h1 class="title">
+                Tic Tac Toe
+            </h1>
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="board has-text-centered columns is-multiline">
+            <table>
+                <tr v-for="(row, indexRow) in board">
+                    <td v-for="(col, indexCol) in row"><button v-text="class=cell-{{indexRow}}-{{indexCol}}" v-on:click="play(indexRow+1,indexCol+1)">&nbsp;{{ col }}&nbsp;</button></td>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <div id="resultMessage" v-text="resultMessage"></div>
+        </div>
+        <div class="field">
+            <div class="control">
+                <p> &nbsp;
+                <p>
+                <button class="button reset" v-on:click="reset()">RESET</button>
+            </div>
+          </div>
+    </section>
+    
+    <script src="vue.js"></script>
+    <script src="tictactoe.js"></script>
 </body>
 </html>
