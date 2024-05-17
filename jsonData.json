@@ -1,468 +1,114 @@
 [
     {
-        "_id": "61d59351cf4d9f53dd6bb03f",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">When, at the desire of the promisor, the promisee or any other person has done or abstained from doing or, does or abstains from doing or promises to do or to abstain from doing something, such act or abstinence or promise under section 2(d) is called</span></strong></p>",
+        "_id": "64aeb6b3c30377806d395cf3",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%; color: black; mso-themecolor: text1;\">According to Section 63 of the India Penal Code, 1860, where no sum is expressed to which a fine may extend, the amount of fine to which the offender is liable is<o:p></o:p></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "When, at the desire of the promisor, the promisee or any other person has done or abstained from doing or, does or abstains from doing or promises to do or to abstain from doing something, such act or abstinence or promise under section 2(d) is called",
-        "sectionId": "628094d11794dcb143a030f7",
+        "nameText": "According to Section 63 of the India Penal Code, 1860, where no sum is expressed to which a fine may extend, the amount of fine to which the offender is liable is",
+        "sectionId": "64aeb6a6ef302c4a6554271d",
         "order": 1,
         "questionSubmitOrder": 1,
         "options": [
             {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">reciprocal promise&nbsp;</span></p>",
-                "nameText": "reciprocal promise ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fafd86bb03b",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">consideration for the promise&nbsp;</span></p>",
-                "nameText": "consideration for the promise ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%; color: black; mso-themecolor: text1;\">unlimited but not excessive</span></p>",
+                "nameText": "unlimited but not excessive",
                 "isCorrect": true,
-                "_id": "61d59351cf4d9f61da6bb03c",
+                "_id": "64aebc60671d283b5816bbbc",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%; color: black; mso-themecolor: text1;\">reasonable and not unlimited<o:p></o:p></span></p>",
+                "nameText": "reasonable and not unlimited",
+                "isCorrect": false,
+                "_id": "64aebc60671d28d30f16bbbd",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%; color: black; mso-themecolor: text1;\">unlimited and higher<o:p></o:p></span></p>",
+                "nameText": "unlimited and higher",
+                "isCorrect": false,
+                "_id": "64aebc60671d28696416bbbe",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%; color: black; mso-themecolor: text1;\">limited but sufficient<o:p></o:p></span></p>",
+                "nameText": "limited but sufficient",
+                "isCorrect": false,
+                "_id": "64aebc60671d28fd7d16bbbf",
                 "isMarked": true
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">counter offer&nbsp;</span></p>",
-                "nameText": "counter offer ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fa5ec6bb03d",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">acceptance.&nbsp;&nbsp;</span></p>",
-                "nameText": "acceptance.  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f65b36bb03e",
-                "isMarked": false
             }
         ],
-        "solution": "",
+        "solution": "<p>SECTION 63 , AMOUNT OF FINE&nbsp;</p>",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": true,
         "isPartiallyCorrect": false,
-        "isCorrect": true,
+        "isCorrect": false,
         "isGraceMarked": false,
         "isReevaluated": false,
         "marks": {
-            "positive": 1,
+            "positive": 0,
             "negative": 0
         },
-        "timeTaken": 24000,
+        "timeTaken": 22000,
         "markForReview": false,
         "isGpscType": false,
         "isSurrendered": false,
         "difficultyLevel": null
     },
     {
-        "_id": "61d59351cf4d9f1b686bb053",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Which is correct</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
+        "_id": "64aeb6b3c30377d42a395cf8",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span style=\"font-size: 14.0pt; line-height: 115%;\">Where is the maximum sentence of imprisonment that can be imposed in default of payment of fine?&nbsp;<o:p></o:p></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "Which is correct  ",
-        "sectionId": "628094d11794dcb143a030f7",
+        "nameText": "Where is the maximum sentence of imprisonment that can be imposed in default of payment of fine? ",
+        "sectionId": "64aeb6a6ef302c4a6554271d",
         "order": 2,
         "questionSubmitOrder": 2,
         "options": [
             {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">proposal + acceptance = promise&nbsp;</span></p>",
-                "nameText": "proposal + acceptance = promise ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">One-half of the maximum imprisonment fixed for the offence<o:p></o:p></span></p>",
+                "nameText": "One-half of the maximum imprisonment fixed for the offence",
                 "isCorrect": false,
-                "_id": "61d59351cf4d9f39506bb04f",
+                "_id": "64aebc60671d28786d16bbdc",
                 "isMarked": false
             },
             {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">promise + consideration = agreement&nbsp;</span></p>",
-                "nameText": "promise + consideration = agreement ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">One-third of the maximum imprisonment fixed for the offence<o:p></o:p></span></p>",
+                "nameText": "One-third of the maximum imprisonment fixed for the offence",
                 "isCorrect": false,
-                "_id": "61d59351cf4d9f35d26bb050",
+                "_id": "64aebc60671d28184116bbdd",
                 "isMarked": false
             },
             {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement + enforceability = contract&nbsp;</span></p>",
-                "nameText": "agreement + enforceability = contract ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f2b4d6bb051",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">all the above.&nbsp;&nbsp;</span></p>",
-                "nameText": "all the above.  ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">One-fourth of the maximum imprisonment fixed for the offence</span></p>",
+                "nameText": "One-fourth of the maximum imprisonment fixed for the offence",
                 "isCorrect": true,
-                "_id": "61d59351cf4d9f0e4d6bb052",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f51126bb067",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Goods displayed in a shop with a price tag is an</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Goods displayed in a shop with a price tag is an",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 3,
-        "questionSubmitOrder": 3,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">offer&nbsp;&nbsp;</span></p>",
-                "nameText": "offer  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f75346bb063",
+                "_id": "64aebc60671d28bfdc16bbde",
                 "isMarked": false
             },
             {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">invitation to offer&nbsp;</span></p>",
-                "nameText": "invitation to offer ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9f26456bb064",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">counter offer&nbsp;&nbsp;</span></p>",
-                "nameText": "counter offer  ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">Equal to the maximum imprisonment fixed for the offence&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Equal to the maximum imprisonment fixed for the offence ",
                 "isCorrect": false,
-                "_id": "61d59351cf4d9f4bec6bb065",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">none of the above.&nbsp;</span></p>",
-                "nameText": "none of the above. ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f129b6bb066",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f05156bb04e",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">An agreement enforceable by law at the instance of one party &amp; not of other party under section 2(i) is called</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "An agreement enforceable by law at the instance of one party & not of other party under section 2(i) is called  ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 4,
-        "questionSubmitOrder": 4,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">a valid contract&nbsp;</span></p>",
-                "nameText": "a valid contract ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fc38d6bb04a",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">an illegal contract&nbsp;</span></p>",
-                "nameText": "an illegal contract ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f9c626bb04b",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">a void contract&nbsp;&nbsp;</span></p>",
-                "nameText": "a void contract  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f1b6b6bb04c",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">a voidable contract.&nbsp;</span></p>",
-                "nameText": "a voidable contract. ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9fcb0f6bb04d",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f7adf6bb06c",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Tender is</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Tender is",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 5,
-        "questionSubmitOrder": 5,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">an offer&nbsp;&nbsp;</span></p>",
-                "nameText": "an offer  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f46ee6bb068",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">an invitation to offer&nbsp;</span></p>",
-                "nameText": "an invitation to offer ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9f1e0a6bb069",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">a counter offer&nbsp;&nbsp;</span></p>",
-                "nameText": "a counter offer  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f686f6bb06a",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">a promise&nbsp;</span></p>",
-                "nameText": "a promise ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f7c006bb06b",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9fd92a6bb035",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Under section 2(b) if the person to whom the proposal is made signifies his assent the proposal is said to have been</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Under section 2(b) if the person to whom the proposal is made signifies his assent the proposal is said to have been  ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 6,
-        "questionSubmitOrder": 6,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">&nbsp;accepted&nbsp;</span></p>",
-                "nameText": " accepted ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9f8d476bb031",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreed&nbsp;</span></p>",
-                "nameText": "agreed ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fd7e36bb032",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">provisionally agreed&nbsp;</span></p>",
-                "nameText": "provisionally agreed ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f26a76bb033",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">tentatively accepted.&nbsp;&nbsp;</span></p>",
-                "nameText": "tentatively accepted.  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f63106bb034",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9fd9196bb03a",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">A proposal when accepted becomes</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "A proposal when accepted becomes",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 7,
-        "questionSubmitOrder": 7,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">promise under section 2(b)&nbsp;</span></p>",
-                "nameText": "promise under section 2(b) ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9f35af6bb036",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement under section 2(e)&nbsp;</span></p>",
-                "nameText": "agreement under section 2(e) ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f1f2b6bb037",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">contract under section 2(h)&nbsp;</span></p>",
-                "nameText": "contract under section 2(h) ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f3aff6bb038",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1;\">none of the above.&nbsp;&nbsp;</span></p>",
-                "nameText": "none of the above.  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f2b9e6bb039",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f7cbb6bb02b",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Void agreement signifies</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Void agreement signifies  ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 8,
-        "questionSubmitOrder": 8,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement illegal in nature&nbsp;</span></p>",
-                "nameText": "agreement illegal in nature ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f3f5e6bb027",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement not enforceable by law&nbsp;</span></p>",
-                "nameText": "agreement not enforceable by law ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9fb04e6bb028",
+                "_id": "64aebc60671d28482d16bbdf",
                 "isMarked": true
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement violating legal procedure&nbsp;</span></p>",
-                "nameText": "agreement violating legal procedure ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fc9c66bb029",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement against public policy.&nbsp;&nbsp;</span></p>",
-                "nameText": "agreement against public policy.  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f00f36bb02a",
-                "isMarked": false
             }
         ],
-        "solution": "",
+        "solution": "<p>SECTION 65,&nbsp; LIMIT TO IMPRISONMENT FOR NON PAYMENT OF FINE , WHEN IMPRISONMENT AND FINE AWARDABLE.</p>",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": true,
         "isPartiallyCorrect": false,
-        "isCorrect": true,
+        "isCorrect": false,
         "isGraceMarked": false,
         "isReevaluated": false,
         "marks": {
-            "positive": 1,
+            "positive": 0,
             "negative": 0
         },
         "timeTaken": 14000,
@@ -472,1227 +118,47 @@
         "difficultyLevel": null
     },
     {
-        "_id": "624abdee0bc69a451ca6fae3",
-        "name": "<p><span style=\"font-size: 14pt;\"><strong>A contracts to pay B 10,000/- if B's house is burnt. This is ____ </strong> </span></p>",
+        "_id": "64aeb6b3c3037712f2395ce4",
+        "name": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">How many types of punishment are prescribed in the IPC&nbsp;<o:p></o:p></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "A contracts to pay B 10,000/- if B's house is burnt. This is ____  ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 9,
-        "questionSubmitOrder": 9,
+        "nameText": "How many types of punishment are prescribed in the IPC ",
+        "sectionId": "64aeb6a6ef302c4a6554271d",
+        "order": 3,
+        "questionSubmitOrder": 3,
         "options": [
             {
-                "name": "<p><strong>Void Contract</strong></p>",
-                "nameText": "Void Contract",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">3<o:p></o:p></span></p>",
+                "nameText": "3",
                 "isCorrect": false,
-                "_id": "62498fcfc61a1159afd006ef",
+                "_id": "64aebc60671d285db716bbd4",
                 "isMarked": false
             },
             {
-                "name": "<p><strong>Contingent contract</strong></p>",
-                "nameText": "Contingent contract",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">4<o:p></o:p></span></p>",
+                "nameText": "4",
+                "isCorrect": false,
+                "_id": "64aebc60671d280d7d16bbd5",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">5</span></p>",
+                "nameText": "5",
                 "isCorrect": true,
-                "_id": "62498fcfc61a11863ad006f0",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>Wager</strong></p>",
-                "nameText": "Wager",
-                "isCorrect": false,
-                "_id": "62498fcfc61a110531d006f1",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>None of the above</strong></p>",
-                "nameText": "None of the above",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11e94cd006f2",
-                "isMarked": false
-            }
-        ],
-        "solution": " ",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "624abdee0bc69ad896a6faf3",
-        "name": "<p><span style=\"font-size: 14pt;\"><strong><span style=\"line-height: 107%; font-family: Calibri, sans-serif;\">According to Section 2(j) of the Indian contract Act, 1872, an agreement </span></strong></span><strong style=\"font-size: 18.6667px;\"><span style=\"line-height: 107%; font-family: Calibri, sans-serif;\">which is </span></strong><strong style=\"font-size: 14pt;\"><span style=\"line-height: 107%; font-family: Calibri, sans-serif;\">enforceable by law at the option of one or more of the parties thereto, but NOT at the option of the other or other is:</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "According to Section 2(j) of the Indian contract Act, 1872, an agreement which is enforceable by law at the option of one or more of the parties thereto, but NOT at the option of the other or other is:",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 10,
-        "questionSubmitOrder": 10,
-        "options": [
-            {
-                "name": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><strong><span style=\"font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">a)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">Invalid&nbsp;</span></strong></p>",
-                "nameText": "a)     Invalid ",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11fd58d0070d",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><strong><span style=\"font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">a)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">A contingent contract</span></strong></p>",
-                "nameText": "a)     A contingent contract",
-                "isCorrect": false,
-                "_id": "62498fcfc61a111c83d0070e",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><strong><span style=\"font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">a)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">Void</span></strong></p>",
-                "nameText": "a)     Void",
-                "isCorrect": false,
-                "_id": "62498fcfc61a1112f3d0070f",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><strong><span style=\"font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">a)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">A voidable contract.</span></strong></p>",
-                "nameText": "a)     A voidable contract.",
-                "isCorrect": true,
-                "_id": "62498fcfc61a11cc90d00710",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f84b46bb049",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Every promise or set of promises forming the consideration for each other under section 2(e) is called</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Every promise or set of promises forming the consideration for each other under section 2(e) is called  ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 11,
-        "questionSubmitOrder": 11,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">reciprocal promise&nbsp;</span></p>",
-                "nameText": "reciprocal promise ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f0e3d6bb045",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">contract&nbsp;</span></p>",
-                "nameText": "contract ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f12aa6bb046",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement&nbsp;</span></p>",
-                "nameText": "agreement ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9fa2ca6bb047",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">none of the above.&nbsp;&nbsp;</span></p>",
-                "nameText": "none of the above.  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f5b006bb048",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f568e6bb017",
-        "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1;\">An agreement enforceable at law is a&nbsp;&nbsp;</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "An agreement enforceable at law is a  ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 12,
-        "questionSubmitOrder": 12,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">enforceable acceptance&nbsp;</span></p>",
-                "nameText": "enforceable acceptance ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f34566bb013",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">accepted offer&nbsp;</span></p>",
-                "nameText": "accepted offer ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f45de6bb014",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">approved promise&nbsp;&nbsp;</span></p>",
-                "nameText": "approved promise  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f83f46bb015",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">contract.&nbsp;</span></p>",
-                "nameText": "contract. ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9f8f286bb016",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "624abdee0bc69a61d9a6fad0",
-        "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\"><span style=\"font-size: 14pt;\">Z saves the property of Y from fire. The circumstances indicate that Z intended to do so gratuitously. Under Section 70 of the Indian contract Act, 1872:&nbsp;</span></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Z saves the property of Y from fire. The circumstances indicate that Z intended to do so gratuitously. Under Section 70 of the Indian contract Act, 1872: ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 13,
-        "questionSubmitOrder": 13,
-        "options": [
-            {
-                "name": "<p><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Z is entitled to compensation from legal representative of Y&nbsp;</span></strong></p>",
-                "nameText": "Z is entitled to compensation from legal representative of Y ",
-                "isCorrect": false,
-                "_id": "62498fcfc61a116931d00708",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Y is bound to give compensation to Z&nbsp;</span></strong></p>",
-                "nameText": "Y is bound to give compensation to Z ",
-                "isCorrect": false,
-                "_id": "62498fcfc61a111366d00709",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Z is entitled to compensation from the local administration</span></strong></p>",
-                "nameText": "Z is entitled to compensation from the local administration",
-                "isCorrect": false,
-                "_id": "62498fcfc61a115595d0070a",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">Z is not entitled to compensation from Y.</span></strong></p>",
-                "nameText": "Z is not entitled to compensation from Y.",
-                "isCorrect": true,
-                "_id": "62498fcfc61a11598dd0070b",
-                "isMarked": false
-            }
-        ],
-        "solution": " ",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f71a76bb026",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">An agreement not enforceable by law is stated to be void under</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "An agreement not enforceable by law is stated to be void under",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 14,
-        "questionSubmitOrder": 14,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">section 2(d)&nbsp;</span></p>",
-                "nameText": "section 2(d) ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f00a86bb022",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">section 2(e)&nbsp;</span></p>",
-                "nameText": "section 2(e) ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f260b6bb023",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">section 2(f)&nbsp;&nbsp;</span></p>",
-                "nameText": "section 2(f)  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f95d06bb024",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">section 2(g).&nbsp;&nbsp;</span></p>",
-                "nameText": "section 2(g).  ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9f82996bb025",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "624abdee0bc69a6c74a6fada",
-        "name": "<p><span style=\"font-size: 14pt;\"><strong>For his commission or remuneration, an agent has a</strong> </span></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "For his commission or remuneration, an agent has a ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 15,
-        "questionSubmitOrder": 15,
-        "options": [
-            {
-                "name": "<p><strong>General lien</strong></p>",
-                "nameText": "General lien",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11d2b9d006fe",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>Particular lien</strong></p>",
-                "nameText": "Particular lien",
-                "isCorrect": true,
-                "_id": "62498fcfc61a117b19d006ff",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>No lien at all</strong></p>",
-                "nameText": "No lien at all",
-                "isCorrect": false,
-                "_id": "62498fcfc61a115ee1d00700",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>None of the above</strong></p>",
-                "nameText": "None of the above",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11edc3d00701",
-                "isMarked": false
-            }
-        ],
-        "solution": " ",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "624abdee0bc69a6e38a6fb11",
-        "name": "<p><span style=\"font-size: 14pt;\"><strong>Under the Contract Act, the original contract need not be performed if the parties agree </strong></span></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Under the Contract Act, the original contract need not be performed if the parties agree ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 16,
-        "questionSubmitOrder": 16,
-        "options": [
-            {
-                "name": "<p><strong>to substitute a new contract</strong></p>",
-                "nameText": "to substitute a new contract",
-                "isCorrect": false,
-                "_id": "62498fcfc61a117ee0d006e0",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>to rescind the contract. </strong></p>",
-                "nameText": "to rescind the contract. ",
-                "isCorrect": false,
-                "_id": "62498fcfc61a117cc4d006e1",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>to alter the contract.</strong></p>",
-                "nameText": "to alter the contract.",
-                "isCorrect": false,
-                "_id": "62498fcfc61a113546d006e2",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>All the above</strong></p>",
-                "nameText": "All the above",
-                "isCorrect": true,
-                "_id": "62498fcfc61a110bddd006e3",
-                "isMarked": false
-            }
-        ],
-        "solution": " ",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "624abdee0bc69aec5ea6faca",
-        "name": "<p><span style=\"font-size: 14pt;\"><strong>Where consent to an agreement is caused by coercion, fraud or misrepresentation, the contract is ________</strong></span></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Where consent to an agreement is caused by coercion, fraud or misrepresentation, the contract is ________",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 17,
-        "questionSubmitOrder": 17,
-        "options": [
-            {
-                "name": "<p><strong>Valid</strong></p>",
-                "nameText": "Valid",
-                "isCorrect": false,
-                "_id": "62498fcfc61a118018d00703",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>Voidable at the option of the party, whose consent was so caused</strong></p>",
-                "nameText": "Voidable at the option of the party, whose consent was so caused",
-                "isCorrect": true,
-                "_id": "62498fcfc61a11ea1dd00704",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>Void ab initio</strong></p>",
-                "nameText": "Void ab initio",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11adc0d00705",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>None of the above</strong></p>",
-                "nameText": "None of the above",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11a502d00706",
-                "isMarked": false
-            }
-        ],
-        "solution": " ",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "624abdee0bc69a70eda6faf6",
-        "name": "<p><span style=\"font-size: 14pt;\"><strong>Difference between contract of indemnity and contract of guarantee is </strong></span></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Difference between contract of indemnity and contract of guarantee is ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 18,
-        "questionSubmitOrder": 18,
-        "options": [
-            {
-                "name": "<p><strong>That the former is a contract to save another from loss and the latter is a contract to perform the promise of a third person in case of his default. </strong></p>",
-                "nameText": "That the former is a contract to save another from loss and the latter is a contract to perform the promise of a third person in case of his default. ",
-                "isCorrect": true,
-                "_id": "62498fcfc61a118147d006ea",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>That the former is a contract to discharge the liability of the third party while the latter is a contract to protect against loss.</strong></p>",
-                "nameText": "That the former is a contract to discharge the liability of the third party while the latter is a contract to protect against loss.",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11b7d2d006eb",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>That the former is a cover against the loss if the loss was caused by the promisor himself and not otherwise.</strong></p>",
-                "nameText": "That the former is a cover against the loss if the loss was caused by the promisor himself and not otherwise.",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11f2bfd006ec",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>That the latter should always be in writing while the former could be oral.</strong></p>",
-                "nameText": "That the latter should always be in writing while the former could be oral.",
-                "isCorrect": false,
-                "_id": "62498fcfc61a1199c1d006ed",
-                "isMarked": false
-            }
-        ],
-        "solution": " ",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "624abdee0bc69a2ee0a6fad9",
-        "name": "<p><span style=\"font-size: 14pt;\"><strong>What will be the effect of mistake as to law in force on the agreement</strong></span></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "What will be the effect of mistake as to law in force on the agreement",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 19,
-        "questionSubmitOrder": 19,
-        "options": [
-            {
-                "name": "<p><strong>Not voidable</strong></p>",
-                "nameText": "Not voidable",
-                "isCorrect": true,
-                "_id": "62498fcfc61a1193a9d006f4",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>Voidable</strong></p>",
-                "nameText": "Voidable",
-                "isCorrect": false,
-                "_id": "62498fcfc61a113794d006f5",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>Void.</strong></p>",
-                "nameText": "Void.",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11b6b9d006f6",
+                "_id": "64aebc60671d2844d716bbd6",
                 "isMarked": true
             },
             {
-                "name": "<p><strong>Not void</strong></p>",
-                "nameText": "Not void",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">6<o:p></o:p></span></p>",
+                "nameText": "6",
                 "isCorrect": false,
-                "_id": "62498fcfc61a113e04d006f7",
+                "_id": "64aebc60671d2886b816bbd7",
                 "isMarked": false
             }
         ],
-        "solution": " ",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": true,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 40000,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f69e66bb021",
-        "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1;\">Promises which form the consideration or part of the consideration for each other are</span></strong> <strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1;\">called</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Promises which form the consideration or part of the consideration for each other are called",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 20,
-        "questionSubmitOrder": 20,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">reciprocal promises&nbsp;</span></p>",
-                "nameText": "reciprocal promises ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9f6c596bb01d",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">cross offers&nbsp;</span></p>",
-                "nameText": "cross offers ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f33d06bb01e",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">conditional offer&nbsp;&nbsp;</span></p>",
-                "nameText": "conditional offer  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f619b6bb01f",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">conditional promises.&nbsp;&nbsp;</span></p>",
-                "nameText": "conditional promises.  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f10936bb020",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "624abdee0bc69a6d8fa6fb0b",
-        "name": "<p><span style=\"font-size: 14pt;\"><strong>An agreement not supported by consideration is called_</strong> </span></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "An agreement not supported by consideration is called_ ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 21,
-        "questionSubmitOrder": 21,
-        "options": [
-            {
-                "name": "<p><strong>Nudum Pactum</strong></p>",
-                "nameText": "Nudum Pactum",
-                "isCorrect": true,
-                "_id": "62498fcfc61a115302d006f9",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>Consensus Ad Idem</strong></p>",
-                "nameText": "Consensus Ad Idem",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11bb60d006fa",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>Quid Pro Quo</strong></p>",
-                "nameText": "Quid Pro Quo",
-                "isCorrect": false,
-                "_id": "62498fcfc61a114d2cd006fb",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>Noscitur A Sociis</strong></p>",
-                "nameText": "Noscitur A Sociis",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11d9bad006fc",
-                "isMarked": false
-            }
-        ],
-        "solution": " ",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f9f486bb01c",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Every promise and every set of promises, forming the consideration for each other, is an&nbsp;</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Every promise and every set of promises, forming the consideration for each other, is an ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 22,
-        "questionSubmitOrder": 22,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreement&nbsp;</span></p>",
-                "nameText": "agreement ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9f749e6bb018",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">contract&nbsp;</span></p>",
-                "nameText": "contract ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f8cde6bb019",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">offer&nbsp;&nbsp;</span></p>",
-                "nameText": "offer  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9ff2c76bb01a",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">acceptance.&nbsp;</span></p>",
-                "nameText": "acceptance. ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f43976bb01b",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f067f6bb044",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Promises which form the consideration or part thereof, for each other under section 2(f) are called</span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\"> &nbsp;</span></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Promises which form the consideration or part thereof, for each other under section 2(f) are called  ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 23,
-        "questionSubmitOrder": 23,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">acceptances for different proposals&nbsp;</span></p>",
-                "nameText": "acceptances for different proposals ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f878a6bb040",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">agreements&nbsp;</span></p>",
-                "nameText": "agreements ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fdb716bb041",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">reciprocal promises&nbsp;&nbsp;</span></p>",
-                "nameText": "reciprocal promises  ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9f04f76bb042",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">consideration.&nbsp;&nbsp;</span></p>",
-                "nameText": "consideration.  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f9e906bb043",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f15d66bb030",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Offer as defined under section 2(a) is</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Offer as defined under section 2(a) is",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 24,
-        "questionSubmitOrder": 24,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">communication from one person to another&nbsp;</span></p>",
-                "nameText": "communication from one person to another ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f606c6bb02c",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">suggestion by one person to another&nbsp;&nbsp;</span></p>",
-                "nameText": "suggestion by one person to another  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fb9a36bb02d",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">willingness to do or abstain from doing an act in order to obtain the assent of other thereto&nbsp;&nbsp;</span></p>",
-                "nameText": "willingness to do or abstain from doing an act in order to obtain the assent of other thereto  ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9f93cc6bb02e",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">none of the above.&nbsp;&nbsp;</span></p>",
-                "nameText": "none of the above.  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f22f56bb02f",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "624abdee0bc69a0189a6faff",
-        "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\"><span style=\"font-size: 14pt;\">A agrees to let her daughter to hire to B for concubinage. The agreement is:</span></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "A agrees to let her daughter to hire to B for concubinage. The agreement is:",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 25,
-        "questionSubmitOrder": 25,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">valid</span></strong></p>",
-                "nameText": "valid",
-                "isCorrect": false,
-                "_id": "62498fcfc61a114c20d00717",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">voidable</span></strong></p>",
-                "nameText": "voidable",
-                "isCorrect": false,
-                "_id": "62498fcfc61a111ce0d00718",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">enforceable</span></strong></p>",
-                "nameText": "enforceable",
-                "isCorrect": false,
-                "_id": "62498fcfc61a119973d00719",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">void</span></strong></p>",
-                "nameText": "void",
-                "isCorrect": true,
-                "_id": "62498fcfc61a11767ed0071a",
-                "isMarked": false
-            }
-        ],
-        "solution": " ",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f5a166bb062",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Under section 2(c) promisee is the&nbsp;</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Under section 2(c) promisee is the ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 26,
-        "questionSubmitOrder": 26,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who makes the proposal&nbsp;</span></p>",
-                "nameText": "person who makes the proposal ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fdb4b6bb05e",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who accepts the proposal&nbsp;</span></p>",
-                "nameText": "person who accepts the proposal ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9f51736bb05f",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who makes the promise&nbsp;</span></p>",
-                "nameText": "person who makes the promise ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f1fe46bb060",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person to whom proposal is made.&nbsp;&nbsp;</span></p>",
-                "nameText": "person to whom proposal is made.  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f32276bb061",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f8d246bb05d",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Under section 2(C)&nbsp;</span></strong><strong><span style=\"color: black; font-family: Lato, sans-serif; font-size: 14pt;\">promisor is the</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "Under section 2(C) promisor is the",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 27,
-        "questionSubmitOrder": 27,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who makes the proposal&nbsp;</span></p>",
-                "nameText": "person who makes the proposal ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9fa3566bb059",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who accepts the proposal&nbsp;</span></p>",
-                "nameText": "person who accepts the proposal ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fb52d6bb05a",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person who makes the promise&nbsp;</span></p>",
-                "nameText": "person who makes the promise ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fadbe6bb05b",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">person to whom the proposal is made.&nbsp;&nbsp;</span></p>",
-                "nameText": "person to whom the proposal is made.  ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f01ea6bb05c",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "61d59351cf4d9f007e6bb058",
-        "name": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">In a valid contract, what comes first</span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "In a valid contract, what comes first",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 28,
-        "questionSubmitOrder": 28,
-        "options": [
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">enforceability&nbsp;</span></p>",
-                "nameText": "enforceability ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fa4b46bb054",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">acceptance</span></p>",
-                "nameText": "acceptance",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9f81456bb055",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">promise&nbsp;</span></p>",
-                "nameText": "promise ",
-                "isCorrect": false,
-                "_id": "61d59351cf4d9fdf5a6bb056",
-                "isMarked": false
-            },
-            {
-                "name": "<p><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Courier New'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">proposal.&nbsp;</span></p>",
-                "nameText": "proposal. ",
-                "isCorrect": true,
-                "_id": "61d59351cf4d9faf116bb057",
-                "isMarked": false
-            }
-        ],
-        "solution": "",
-        "hasMultipleAnswers": false,
-        "type": "multiple_choice",
-        "isAttempted": false,
-        "isPartiallyCorrect": false,
-        "isCorrect": false,
-        "isGraceMarked": false,
-        "isReevaluated": false,
-        "marks": {
-            "positive": 0,
-            "negative": 0
-        },
-        "timeTaken": 0,
-        "markForReview": false,
-        "isGpscType": false,
-        "isSurrendered": false,
-        "difficultyLevel": null
-    },
-    {
-        "_id": "624abdee0bc69a8282a6fad6",
-        "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\"><span style=\"font-size: 14pt;\">An agreement by which any one is restrained from exercising a lawful profession is:&nbsp;</span></span></strong></p>",
-        "isComprehension": false,
-        "paragraph": null,
-        "paragraphText": null,
-        "fillUpsAnswers": [],
-        "nameText": "An agreement by which any one is restrained from exercising a lawful profession is: ",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 29,
-        "questionSubmitOrder": 29,
-        "options": [
-            {
-                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">voidable&nbsp;</span></strong></p>",
-                "nameText": "voidable ",
-                "isCorrect": false,
-                "_id": "62498fcfc61a118b5ed00712",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">void&nbsp;</span></strong></p>",
-                "nameText": "void ",
-                "isCorrect": true,
-                "_id": "62498fcfc61a11d831d00713",
-                "isMarked": true
-            },
-            {
-                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">valid</span></strong></p>",
-                "nameText": "valid",
-                "isCorrect": false,
-                "_id": "62498fcfc61a117e06d00714",
-                "isMarked": false
-            },
-            {
-                "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%;\">enforceable</span></strong></p>",
-                "nameText": "enforceable",
-                "isCorrect": false,
-                "_id": "62498fcfc61a119274d00715",
-                "isMarked": false
-            }
-        ],
-        "solution": " ",
+        "solution": "<p style=\"text-align: justify;\">SECTION 53 PUNISHMENTS</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; text-align: justify; line-height: 150%;\"><o:p></o:p></p>",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": true,
@@ -1704,54 +170,408 @@
             "positive": 1,
             "negative": 0
         },
-        "timeTaken": 21000,
+        "timeTaken": 7000,
         "markForReview": false,
         "isGpscType": false,
         "isSurrendered": false,
         "difficultyLevel": null
     },
     {
-        "_id": "624abdee0bc69a7684a6fae0",
-        "name": "<p><span style=\"font-size: 14pt;\"><strong>The Indian contract Act imposes a responsibility upon a finder of goods</strong></span></p>",
+        "_id": "64aeb6b3c303772899395d02",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><strong><span style=\"font-size: 14.0pt; line-height: 115%;\">The maximum limit for a sentence of solitary confinement as provided under Section 73 of Indian Penal Code is:&nbsp;<o:p></o:p></span></strong></p>",
         "isComprehension": false,
         "paragraph": null,
         "paragraphText": null,
         "fillUpsAnswers": [],
-        "nameText": "The Indian contract Act imposes a responsibility upon a finder of goods",
-        "sectionId": "628094d11794dcb143a030f7",
-        "order": 30,
-        "questionSubmitOrder": 30,
+        "nameText": "The maximum limit for a sentence of solitary confinement as provided under Section 73 of Indian Penal Code is: ",
+        "sectionId": "64aeb6a6ef302c4a6554271d",
+        "order": 4,
+        "questionSubmitOrder": 4,
         "options": [
             {
-                "name": "<p><strong>To the same extent as a bailee</strong></p>",
-                "nameText": "To the same extent as a bailee",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">Six months to one year<o:p></o:p></span></p>",
+                "nameText": "Six months to one year",
                 "isCorrect": false,
-                "_id": "62498fcfc61a1139b6d006e5",
+                "_id": "64aebc60671d284b8616bbe0",
                 "isMarked": false
             },
             {
-                "name": "<p><strong>To hand it over to the police</strong></p>",
-                "nameText": "To hand it over to the police",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">Six months<o:p></o:p></span></p>",
+                "nameText": "Six months",
                 "isCorrect": false,
-                "_id": "62498fcfc61a11f268d006e6",
+                "_id": "64aebc60671d2875d316bbe1",
+                "isMarked": true
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">Eighteen months<o:p></o:p></span></p>",
+                "nameText": "Eighteen months",
+                "isCorrect": false,
+                "_id": "64aebc60671d282c7f16bbe2",
                 "isMarked": false
             },
             {
-                "name": "<p><strong>To the same extent as bailee, if he takes them into his custody. </strong></p>",
-                "nameText": "To the same extent as bailee, if he takes them into his custody. ",
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">Three months&nbsp;</span></p>",
+                "nameText": "Three months ",
                 "isCorrect": true,
-                "_id": "62498fcfc61a11cb7ed006e7",
-                "isMarked": false
-            },
-            {
-                "name": "<p><strong>None of the above.</strong></p>",
-                "nameText": "None of the above.",
-                "isCorrect": false,
-                "_id": "62498fcfc61a11576dd006e8",
+                "_id": "64aebc60671d286ba316bbe3",
                 "isMarked": false
             }
         ],
-        "solution": " ",
+        "solution": "<p>SECTION 73, SOLITARY CONFINEMENT&nbsp;</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": true,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 9000,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb6b3c303777fd7395cfd",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">Under IPC, the death of the offender does not discharge from the liability, any property which is liable for his debts if a fine has been levied.&nbsp;</span></strong><o:p></o:p></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Under IPC, the death of the offender does not discharge from the liability, any property which is liable for his debts if a fine has been levied. ",
+        "sectionId": "64aeb6a6ef302c4a6554271d",
+        "order": 5,
+        "questionSubmitOrder": 5,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">Correct&nbsp;</span></p>",
+                "nameText": "Correct ",
+                "isCorrect": true,
+                "_id": "64aebc60671d28b8bd16bbd8",
+                "isMarked": true
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">Incorrect&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Incorrect ",
+                "isCorrect": false,
+                "_id": "64aebc60671d2859e316bbd9",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">Partly Correct&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Partly Correct ",
+                "isCorrect": false,
+                "_id": "64aebc60671d284afb16bbda",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">Depends&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Depends ",
+                "isCorrect": false,
+                "_id": "64aebc60671d285c5516bbdb",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 70, FINE LEVIABLE&nbsp; WITHIN SIX YEARS ,OF DURING IMRISONMENT. DEATH NOT TO DISCHARGE PROPERTY FROM LIABILITY&nbsp;</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": true,
+        "isPartiallyCorrect": false,
+        "isCorrect": true,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 1,
+            "negative": 0
+        },
+        "timeTaken": 26000,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb6b3c3037742a1395d11",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Under indian penal code&nbsp; , 1860, in every case in which the sentence of death shall have been passed , who may commute the punishment for any other punishment provided by the code ?<o:p></o:p></span></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Under indian penal code  , 1860, in every case in which the sentence of death shall have been passed , who may commute the punishment for any other punishment provided by the code ?",
+        "sectionId": "64aeb6a6ef302c4a6554271d",
+        "order": 6,
+        "questionSubmitOrder": 6,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">The president&nbsp;<o:p></o:p></span></p>",
+                "nameText": "The president ",
+                "isCorrect": false,
+                "_id": "64aebc60671d28f9bc16bbc0",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">The court&nbsp;<o:p></o:p></span></p>",
+                "nameText": "The court ",
+                "isCorrect": false,
+                "_id": "64aebc60671d28e46f16bbc1",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">The Appropriate government&nbsp;<o:p></o:p></span></p>",
+                "nameText": "The Appropriate government ",
+                "isCorrect": true,
+                "_id": "64aebc60671d280bb116bbc2",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">The Governor<o:p></o:p></span></p>",
+                "nameText": "The Governor",
+                "isCorrect": false,
+                "_id": "64aebc60671d28bab316bbc3",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 54, COMMUTATION OF SENTENCE OF DEATH&nbsp;</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb6b3c30377f581395d07",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">In executing a sentence of solitary confinement such confinement shall in no case exceed:<o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "In executing a sentence of solitary confinement such confinement shall in no case exceed:",
+        "sectionId": "64aeb6a6ef302c4a6554271d",
+        "order": 7,
+        "questionSubmitOrder": 7,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">14 days at a time</span></p>",
+                "nameText": "14 days at a time",
+                "isCorrect": true,
+                "_id": "64aebc60671d288fbe16bbd0",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">14 days&nbsp;</span><o:p></o:p></p>",
+                "nameText": "14 days ",
+                "isCorrect": false,
+                "_id": "64aebc60671d28e96516bbd1",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">7 days&nbsp;<o:p></o:p></span></p>",
+                "nameText": "7 days ",
+                "isCorrect": false,
+                "_id": "64aebc60671d28454816bbd2",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">15 days&nbsp;<o:p></o:p></span></p>",
+                "nameText": "15 days ",
+                "isCorrect": false,
+                "_id": "64aebc60671d286bb016bbd3",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 74, LIMIT OF SOLITARY CONFINEMENT</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb6b3c303776dba395cee",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">In calculating fractions of terms of punishment, imprisonment for life shall be reckoned as equivalent to imprisonment for:<o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "In calculating fractions of terms of punishment, imprisonment for life shall be reckoned as equivalent to imprisonment for:",
+        "sectionId": "64aeb6a6ef302c4a6554271d",
+        "order": 8,
+        "questionSubmitOrder": 8,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">21 years&nbsp;&nbsp;<o:p></o:p></span></p>",
+                "nameText": "21 years  ",
+                "isCorrect": false,
+                "_id": "64aebc60671d2840d116bbc4",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">14 years&nbsp;&nbsp;<o:p></o:p></span></p>",
+                "nameText": "14 years  ",
+                "isCorrect": false,
+                "_id": "64aebc60671d283e2a16bbc5",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">15 years&nbsp;<o:p></o:p></span></p>",
+                "nameText": "15 years ",
+                "isCorrect": false,
+                "_id": "64aebc60671d283cd116bbc6",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">20 years&nbsp;</span></p>",
+                "nameText": "20 years ",
+                "isCorrect": true,
+                "_id": "64aebc60671d28445e16bbc7",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 57 FRACTIONS OF TERMS OF PUNISHMENT</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb6b3c303777a9f395ce9",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">Under IPC, while calculating fractions of terms of punishment, imprisonment for life shall be reckoned as equivalent to imprisonment for&nbsp;<o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "Under IPC, while calculating fractions of terms of punishment, imprisonment for life shall be reckoned as equivalent to imprisonment for ",
+        "sectionId": "64aeb6a6ef302c4a6554271d",
+        "order": 9,
+        "questionSubmitOrder": 9,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">14 years<o:p></o:p></span></p>",
+                "nameText": "14 years",
+                "isCorrect": false,
+                "_id": "64aebc60671d28fa0816bbcc",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">20 years&nbsp;</span></p>",
+                "nameText": "20 years ",
+                "isCorrect": true,
+                "_id": "64aebc60671d28b14b16bbcd",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%; mso-bidi-font-weight: bold;\">Life<o:p></o:p></span></p>",
+                "nameText": "Life",
+                "isCorrect": false,
+                "_id": "64aebc60671d28700816bbce",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">None of the above<o:p></o:p></span></p>",
+                "nameText": "None of the above",
+                "isCorrect": false,
+                "_id": "64aebc60671d28e66c16bbcf",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 57 , FRACTIONS OF TERMS OF PUNISHMENT</p>",
+        "hasMultipleAnswers": false,
+        "type": "multiple_choice",
+        "isAttempted": false,
+        "isPartiallyCorrect": false,
+        "isCorrect": false,
+        "isGraceMarked": false,
+        "isReevaluated": false,
+        "marks": {
+            "positive": 0,
+            "negative": 0
+        },
+        "timeTaken": 0,
+        "markForReview": false,
+        "isGpscType": false,
+        "isSurrendered": false,
+        "difficultyLevel": null
+    },
+    {
+        "_id": "64aeb6b3c30377422c395d0c",
+        "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">According to Section 74 of the Indian Penal Code, 1860 in executing a sentence of solitary confinement, such confinement shall in No case exceed _____ days at a time.<o:p></o:p></span></strong></p>",
+        "isComprehension": false,
+        "paragraph": null,
+        "paragraphText": null,
+        "fillUpsAnswers": [],
+        "nameText": "According to Section 74 of the Indian Penal Code, 1860 in executing a sentence of solitary confinement, such confinement shall in No case exceed _____ days at a time.",
+        "sectionId": "64aeb6a6ef302c4a6554271d",
+        "order": 10,
+        "questionSubmitOrder": 10,
+        "options": [
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">Fourteen&nbsp;</span></p>",
+                "nameText": "Fourteen ",
+                "isCorrect": true,
+                "_id": "64aebc60671d28596e16bbc8",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">Ten&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Ten ",
+                "isCorrect": false,
+                "_id": "64aebc60671d28ba5516bbc9",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: 115%;\"><span style=\"font-size: 14.0pt; line-height: 115%;\">Thirty&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Thirty ",
+                "isCorrect": false,
+                "_id": "64aebc60671d283abb16bbca",
+                "isMarked": false
+            },
+            {
+                "name": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Seven&nbsp;<o:p></o:p></span></p>",
+                "nameText": "Seven ",
+                "isCorrect": false,
+                "_id": "64aebc60671d28b04216bbcb",
+                "isMarked": false
+            }
+        ],
+        "solution": "<p>SECTION 74, LIMIT OF SOLITARY CONFINEMENT&nbsp;</p>",
         "hasMultipleAnswers": false,
         "type": "multiple_choice",
         "isAttempted": false,
