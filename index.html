@@ -38,7 +38,10 @@ body {
 </style>
 <script>
 function removeHtmlTags(str) {
-    return str.replace(/<\/?[^>]+(>|$)/g, "");
+    let withoutHtmlTags = str.replace(/<\/?[^>]+(>|$)/g, "");
+    let cleanString = withoutHtmlTags.replace(/&nbsp;/g, " ");
+    let cleanString = cleanString.replace(/&ldquo;/g, "“").replace(/&rdquo;/g, "”");
+    return cleanString;
 }
 document.addEventListener("DOMContentLoaded", function() {
     fetch('jsonData.json')
