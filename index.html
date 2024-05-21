@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 if (question.solution && question.solution.trim() !== "") {
                     let solutionDiv = document.createElement('div');
                     solutionDiv.className = 'Solution';
-                    solutionDiv.textContent = "Solution:   " +  removeHtmlTags(question.solution);
+                    solutionDiv.textContent = "Solution :   " +  removeHtmlTags(question.solution);
                     questionDiv.appendChild(solutionDiv);
                 }
 
