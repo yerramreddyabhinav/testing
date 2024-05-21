@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 if (question.solution && question.solution.trim() !== "") {
                     let solutionDiv = document.createElement('div');
                     solutionDiv.className = 'Solution';
-                    solutionDiv.textContent = "Solution:   " +  question.solution;
+                    solutionDiv.textContent = "Solution:   " +  removeHtmlTags(question.solution);
                     questionDiv.appendChild(solutionDiv);
                 }
 
@@ -79,7 +79,9 @@ document.addEventListener("DOMContentLoaded", function() {
         .catch(error => console.error('Error loading the questions:', error));
 });
 
-
+function removeHtmlTags(str) {
+    return str.replace(/<\/?[^>]+(>|$)/g, "");
+}
 </script>
 </head>
 <body>
