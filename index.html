@@ -37,6 +37,9 @@ body {
 
 </style>
 <script>
+function removeHtmlTags(str) {
+    return str.replace(/<\/?[^>]+(>|$)/g, "");
+}
 document.addEventListener("DOMContentLoaded", function() {
     fetch('jsonData.json')
         .then(response => response.json())
@@ -78,10 +81,6 @@ document.addEventListener("DOMContentLoaded", function() {
         })
         .catch(error => console.error('Error loading the questions:', error));
 });
-
-function removeHtmlTags(str) {
-    return str.replace(/<\/?[^>]+(>|$)/g, "");
-}
 </script>
 </head>
 <body>
