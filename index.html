@@ -40,7 +40,7 @@ body {
 function removeHtmlTags(str) {
     let withoutHtmlTags = str.replace(/<\/?[^>]+(>|$)/g, "");
     let cleanString = withoutHtmlTags.replace(/&nbsp;/g, " ");
-    let cleanString = cleanString.replace(/&ldquo;/g, "“").replace(/&rdquo;/g, "”");
+    cleanString = cleanString.replace(/&ldquo;/g, "“").replace(/&rdquo;/g, "”");
     return cleanString;
 }
 document.addEventListener("DOMContentLoaded", function() {
