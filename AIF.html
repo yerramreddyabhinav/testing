@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Fund Manager</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        .form-section {
+            margin-bottom: 20px;
+        }
+        .form-section h2 {
+            margin-bottom: 10px;
+        }
+        .form-section input {
+            margin-right: 10px;
+            padding: 5px;
+            font-size: 14px;
+        }
+        .form-section button {
+            padding: 5px 10px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Real Estate Investment Fund Manager</h1>
+
+    <div class="form-section">
+        <h2>Add New Property</h2>
+        <input type="text" id="newName" placeholder="Name" />
+        <input type="text" id="newType" placeholder="Type" />
+        <input type="number" id="newArea" placeholder="Area (sqft)" />
+        <input type="number" id="newBuyPrice" placeholder="Buy Price (₹/sqft)" />
+        <input type="number" id="newMarketPrice" placeholder="Current Market Price (₹/sqft)" />
+        <input type="date" id="newBuyDate" placeholder="Buy Date" />
+        <button onclick="addNewProperty()">Add Property</button>
+    </div>
+
+    <div class="form-section">
+        <h2>Sell Property</h2>
+        <input type="text" id="sellName" placeholder="Property Name" />
+        <input type="number" id="sellPrice" placeholder="Sell Price (₹/sqft)" />
+        <input type="date" id="sellDate" placeholder="Sell Date" />
+        <button onclick="sellExistingProperty()">Sell Property</button>
+    </div>
+
+    <div class="form-section">
+        <h2>Add Investor Contribution</h2>
+        <input type="text" id="investorName" placeholder="Investor Name" />
+        <input type="number" id="investmentAmount" placeholder="Investment Amount (₹)" />
+        <button onclick="addInvestorContribution()">Add Contribution</button>
+    </div>
+
+    <h2>Fund Assets</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Type</th>
+                <th>Area (sqft)</th>
+                <th>Buy Price (₹/sqft)</th>
+                <th>Total Value at Buy Price (₹)</th>
+                <th>Current Market Price (₹/sqft)</th>
+                <th>Total Value at Market Price (₹)</th>
+            </tr>
+        </thead>
+        <tbody id="assetTableBody">
+            <!-- Assets will be populated here by JavaScript -->
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="4">Total</th>
+                <th id="totalBuyValue">0</th>
+                <th></th>
+                <th id="totalMarketValue">0</th>
+            </tr>
+        </tfoot>
+    </table>
+
+    <h2>Fund Summary</h2>
+    <p>Total Fund Value: ₹<span id="totalFundValue">0</span></p>
+    <p>Total Units Launched: <span id="totalUnits">30570</span></p>
+    <p>Original NAV per Unit: ₹10,000</p>
+    <p>Current NAV per Unit: ₹<span id="currentNavPerUnit">0</span></p>
+    <p>Growth in NAV per Unit: <span id="navGrowth">0</span>%</p>
+    <p>Cash Balance: ₹<span id="cashBalance">0</span></p>
+
+    <h2>Investor Accounts</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Investor Name</th>
+                <th>Contribution (₹)</th>
+                <th>Units Allocated</th>
+                <th>Current Value (₹)</th>
+            </tr>
+        </thead>
+        <tbody id="investorTableBody">
+            <!-- Investor accounts will be populated here by JavaScript -->
+        </tbody>
+    </table>
+
+    <script>
+        let fundAssets = [
+            {
+                "name": "gar",
+                "type": "commercial",
+                "area": 25000,
+                "buyPricePerSqft": 6000,
+                "currentMarketPricePerSqft": 6000,
+                "buyDate": "2020-01-15",
+                "sellDate": null,
+                "status": "active"
+            },
+            {
+                "name": "tadlapally",
+                "type": "plot",
+                "area": 27000,
+                "buyPricePerSqft": 1400,
+                "currentMarketPricePerSqft": 1400,
+                "buyDate": "2019-05-10",
+                "sellDate": null,
+                "status": "active"
+            },
+            {
+                "name": "creekside",
+                "type": "plot",
+                "area": 45000,
+                "buyPricePerSqft": 300,
+                "currentMarketPricePerSqft": 300,
+                "buyDate": "2018-11-01",
+                "sellDate": null,
+                "status": "active"
+            },
+            {
+                "name": "tukkuguda",
+                "type": "villa",
+                "area": 18000,
+                "buyPricePerSqft": 5800,
+                "currentMarketPricePerSqft": 5800,
+                "buyDate": "2021-03-20",
+                "sellDate": null,
+                "status": "active"
+            }
+        ];
+
+        let originalNavPerUnit = 10000; // Starting NAV per unit
+        let totalUnits = 30570; // This will be calculated once and remain constant
+        let cashBalance = 0;
+        let investorAccounts = [];
+
+        // Function to format currency
+        function formatCurrency(amount) {
+            return amount.toLocaleString('en-IN', { style: 'currency', currency: 'INR', minimumFractionDigits: 0 }).replace('₹', '₹ ');
+        }
+
+        // Function to calculate the total units based on initial contributions
+        function calculateTotalUnits() {
+            totalUnits = investorAccounts.reduce((total, account) => total + account.units, 0);
+            document.getElementById('totalUnits').innerText = totalUnits.toLocaleString();
+        }
+
+        // Function to update the table and summary
+        function updateTable() {
+            let assetTableBody = document.getElementById('assetTableBody');
+            assetTableBody.innerHTML = ''; // Clear existing rows
+
+            let totalBuyValue = 0;
+            let totalMarketValue = 0;
+
+            fundAssets.forEach(asset => {
+                if (asset.status === "active") {
+                    const buyValue = asset.area * asset.buyPricePerSqft;
+                    const currentValue = asset.area * asset.currentMarketPricePerSqft;
+
+                    totalBuyValue += buyValue;
+                    totalMarketValue += currentValue;
+
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${asset.name}</td>
+                        <td>${asset.type}</td>
+                        <td>${asset.area.toLocaleString()}</td>
+                        <td>${formatCurrency(asset.buyPricePerSqft)}</td>
+                        <td>${formatCurrency(buyValue)}</td>
+                        <td>${formatCurrency(asset.currentMarketPricePerSqft)}</td>
+                        <td>${formatCurrency(currentValue)}</td>
+                    `;
+                    assetTableBody.appendChild(row);
+                }
+            });
+
+            const currentNavPerUnit = totalUnits > 0 ? (totalMarketValue) / totalUnits : originalNavPerUnit;
+            const navGrowth = totalUnits > 0 ? ((currentNavPerUnit - originalNavPerUnit) / originalNavPerUnit) * 100 : 0;
+
+            // Update the footer and summary
+            document.getElementById('totalBuyValue').innerText = formatCurrency(totalBuyValue);
+            document.getElementById('totalMarketValue').innerText = formatCurrency(totalMarketValue);
+            document.getElementById('totalFundValue').innerText = formatCurrency(totalMarketValue + cashBalance);
+            document.getElementById('currentNavPerUnit').innerText = formatCurrency(currentNavPerUnit);
+            document.getElementById('navGrowth').innerText = navGrowth.toFixed(2);
+            document.getElementById('cashBalance').innerText = formatCurrency(cashBalance);
+
+            updateInvestorTable(currentNavPerUnit);
+        }
+
+        // Function to update the investor table
+        function updateInvestorTable(currentNavPerUnit) {
+            let investorTableBody = document.getElementById('investorTableBody');
+            investorTableBody.innerHTML = ''; // Clear existing rows
+
+            investorAccounts.forEach(account => {
+                const currentValue = account.units * currentNavPerUnit;
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${account.name}</td>
+                    <td>${formatCurrency(account.contribution)}</td>
+                    <td>${account.units.toLocaleString()}</td>
+                    <td>${formatCurrency(currentValue)}</td>
+                `;
+                investorTableBody.appendChild(row);
+            });
+        }
+
+        // Function to add a new property
+        function addNewProperty() {
+            const name = document.getElementById('newName').value;
+            const type = document.getElementById('newType').value;
+            const area = parseFloat(document.getElementById('newArea').value);
+            const buyPricePerSqft = parseFloat(document.getElementById('newBuyPrice').value);
+            const currentMarketPricePerSqft = parseFloat(document.getElementById('newMarketPrice').value);
+            const buyDate = document.getElementById('newBuyDate').value;
+
+            if (name && type && area && buyPricePerSqft && currentMarketPricePerSqft && buyDate) {
+                const buyValue = area * buyPricePerSqft;
+                
+                if (buyValue > cashBalance) {
+                    alert('Not enough cash balance to purchase this property.');
+                    return;
+                }
+
+                cashBalance -= buyValue;
+
+                fundAssets.push({
+                    "name": name,
+                    "type": type,
+                    "area": area,
+                    "buyPricePerSqft": buyPricePerSqft,
+                    "currentMarketPricePerSqft": currentMarketPricePerSqft,
+                    "buyDate": buyDate,
+                    "sellDate": null,
+                    "status": "active"
+                });
+
+                updateTable();
+            } else {
+                alert('Please fill all the fields to add a new property.');
+            }
+        }
+
+        // Function to sell a property
+        function sellExistingProperty() {
+            const name = document.getElementById('sellName').value;
+            const sellPricePerSqft = parseFloat(document.getElementById('sellPrice').value);
+            const sellDate = document.getElementById('sellDate').value;
+
+            const asset = fundAssets.find(asset => asset.name === name && asset.status === "active");
+            if (asset) {
+                const sellValue = asset.area * sellPricePerSqft;
+                cashBalance += sellValue;
+
+                asset.status = "sold";
+                asset.sellDate = sellDate;
+
+                updateTable();
+            } else {
+                alert('Property not found or already sold.');
+            }
+        }
+
+        // Function to add investor contribution
+        function addInvestorContribution() {
+            const name = document.getElementById('investorName').value;
+            const contribution = parseFloat(document.getElementById('investmentAmount').value);
+
+            if (name && contribution > 0) {
+                const currentNavPerUnit = totalUnits > 0 ? parseFloat(document.getElementById('currentNavPerUnit').innerText.replace(/[₹,]/g, '')) : originalNavPerUnit;
+                const units = contribution / currentNavPerUnit;
+                cashBalance += contribution;
+
+                const existingAccount = investorAccounts.find(account => account.name === name);
+                if (existingAccount) {
+                    existingAccount.contribution += contribution;
+                    existingAccount.units += units;
+                } else {
+                    investorAccounts.push({
+                        "name": name,
+                        "contribution": contribution,
+                        "units": units
+                    });
+                }
+
+              //  calculateTotalUnits();
+                updateTable();
+            } else {
+                alert('Please enter a valid investor name and contribution amount.');
+            }
+        }
+
+        // Initial update to populate the table
+       // calculateTotalUnits();
+        updateTable();
+    </script>
+</body>
+</html>
